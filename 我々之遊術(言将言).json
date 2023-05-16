@@ -1,0 +1,284 @@
+{
+	"title": {
+		"ja": "我々の遊戯（日本語）",
+		"x-faikleone": "我々之遊術(言将言)"
+	},
+	"link": "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2023/%E6%88%91%E3%80%85%E3%81%AE%E9%81%8A%E6%88%AF.pdf",
+	"permanentLink": "https://github.com/yasusho/lanerme_traditional_games/blob/cdfd0d02e634d57d207d3f5bf94c321f359aef60/%E3%82%B2%E3%83%A0%E3%83%9E2023/%E6%88%91%E3%80%85%E3%81%AE%E9%81%8A%E6%88%AF.pdf",
+	"paged": true,
+	"contentByPage": {
+		"1": [
+			{
+				"x-pmcp": "jo pac",
+				"ja": "はじめに"
+			},
+			{
+				"x-pmcp": "belpic, ka e lata leti liju tude jo lata leti cul, pi lata leti tude jo tataleti cul, pi lata at lata leti palbicleti cul. jo mi cetleti paccamel cetleti lata belpicit cetleti belpic. jo kaleti nole belpic leti cepkulante e cet cetleti pi, kanteit ka pi cijujuctelit ka leti lata molip. pi mi cet nip kantelit ka pi jo mi cet kaleti accaleti mo delu e nip cila. belpic leti lanukenic e lata cetleti lanukenic pi icco e kaleti lanukenic leti \"dat\". lata mol pi mo mol. mo mol pi icco mol. jo kaleti nole at nalu mi cet lauzait \"我等之遊術 mi cetleti belpic\". jo zicedol delu ticotit taxu leti jexet e xep pi ticotit metioliju pi mi cet celene xelit kaleti xep mo.",
+				"ja": "遊びは人から人へ伝えられ、遊びは人に楽しみを与え、遊びは人と人を繋ぐ。我々の自治体において、多くの人が多くの遊びを行っている。今、これらの遊びのルールは極めて多く、これを書いて収集する人はいない。しかし、これを記録しなければきっと我々のもとからこの豊かな文化は消える。遊びの思い出は人々の思い出であって、国はこの思い出の「集（ダッ）¹」である。人がいれば文化がある。文化があって国がある。いまこの理由で我々は「我々の遊戯」を作る。歴史において発掘された証拠は重要視すべきであるから、考古学に基づき、この豊かな文化を紹介したい。"
+			},
+			{
+				"x-pmcp": "ail mo leti cep",
+				"ja": "アイル共和国文化省"
+			},
+			{
+				"ja": "和訳: 日本机戦連盟"
+			},
+			{
+				"ja": "翻訳によせて"
+			},
+			{
+				"ja": "　この度、アイル共和国文化省著『ミセッレティベルピス』を翻訳し、『我々の遊戯』として発刊できたことは非常に喜ばしいことである。アイル共和国、ひいてはラネーメ民族の遊戯に関する情報を自らの手で翻訳して日本の皆様にお届けできる機会をいただけたことを幸運に思う。様々な制約が課される中、アイル共和国文化省対外広報処日本語部署が一丸となって最大限の努力を費やし、翻訳を完成させることができた。なるべく原文の雰囲気を壊さないままに日本語としてわかりやすい翻訳となるように心がけたつもりであり、読んで遊ぶのに努力を必要としないものができたと自負しているものである。当連盟が頒布している机戦や紙机戦といった各種アイテムと並んで、本書が日本における皆様のラネーメ遊戯を楽しんでいただくその一助となれば至上のよろこびである。"
+			},
+			{
+				"ja": "日本机戦連盟"
+			},
+			{
+				"ja": "1\t【集】（ダッ）。伝統ゲーム 【机戦】（机戦：セッカイㇰ）において得点獲得をするために必要な駒の組み合わせ。ここでは、人々の思い出を駒に例え、その集まりが価値を生み出すことを述べている。"
+			}
+		],
+		"2": [
+			{
+				"x-pmcp": "melpetal",
+				"ja": "もくじ"
+			},
+			{
+				"x-pmcp": "xiju leti belpic\t3",
+				"ja": "投げ棒のゲーム\t3"
+			},
+			{
+				"x-pmcp": "- mugaxiju\t3",
+				"ja": "- 獣裁（ザウㇷ゚シュー/ムガシユ）\t3"
+			},
+			{
+				"x-pmcp": "- mak-mak xiju\t3",
+				"ja": "- 連撃獣裁 （ニェックッザウㇷ゚シュー）\t3"
+			},
+			{
+				"x-pmcp": "- lutu\t3",
+				"ja": "- 新遊（ルートゥー）\t3"
+			},
+			{
+				"x-pmcp": "cetkaik\t3",
+				"ja": "机戦\t3"
+			},
+			{
+				"x-pmcp": "- liju leti cetkaik\t4",
+				"ja": "- 教育机戦\t4"
+			},
+			{
+				"x-pmcp": "- ail panit leti cetkaik\t7",
+				"ja": "- 標準机戦\t7"
+			},
+			{
+				"x-pmcp": "- jo polto o nole leti etleti julo\t8",
+				"ja": "- 地域や時代による差\t8"
+			},
+			{
+				"x-pmcp": "- penulleti cetkaik\t?",
+				"ja": "- 古机戦\t10"
+			},
+			{
+				"x-pmcp": "nincetkaik leti belpic\t?2",
+				"ja": "紙机戦のゲーム\t12"
+			},
+			{
+				"x-pmcp": "- nincetkaik leti lukup\t?2",
+				"ja": "- 紙机戦の用語集\t12"
+			},
+			{
+				"x-pmcp": "- 行戦 mokaik\t?3",
+				"ja": "- 行戦（モㇰカイㇰ）\t13"
+			},
+			{
+				"x-pmcp": "- 終季 taxot\t?4",
+				"ja": "- 終季（タショッ）\t14"
+			},
+			{
+				"x-pmcp": "- 値戦 makaik\t?5",
+				"ja": "- 値戦（マㇰカイㇰ）\t15"
+			},
+			{
+				"x-pmcp": "- 連友 neki\t?6",
+				"ja": "- 連友（ニェㇰヒー）\t16"
+			},
+			{
+				"x-pmcp": "- 値木 makup\t?6",
+				"ja": "- 値木（マㇰホㇷ゚）\t16"
+			},
+			{
+				"x-pmcp": "- 開樽 nanto\t?7",
+				"ja": "- 開樽（ナㇺトウ）\t17"
+			},
+			{
+				"x-pmcp": "- 小猫 nine\t?7",
+				"ja": "- 小猫（ニーネー）\t17"
+			},
+			{
+				"x-pmcp": "xelit kileleti cul leti belpic\t?8",
+				"ja": "到達を目指すゲーム\t18"
+			},
+			{
+				"x-pmcp": "- 行山 mokzo\t?8",
+				"ja": "- 行山（モㇰツォ）\t18"
+			},
+			{
+				"x-pmcp": "- 六裁 netxiju\t?9",
+				"ja": "- 六裁（ネッシュ）\t19"
+			},
+			{
+				"x-pmcp": "- 連船之遊 tude-pijume\t?9",
+				"ja": "- 連船之遊（ネカナモカヌツ）\t19"
+			}
+		],
+		"3": [
+			{
+				"x-pmcp": "xiju leti belpic",
+				"ja": "投げ棒のゲーム"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic mi cet lucit xiju. xiju e cutewen exut leti xedixel pi doktit ka pi iceit panxenco. lucit ka leti cubelpic e kanicitileti cubelpic jo auc.",
+				"ja": "このゲームにおいては投げ棒＝【裁】（裁：シュー）を使う。投げ棒とは、裏表が分かるように作られた平らな竹の棒であり、これを５本同時に投げてランダムな数を得る。これを使った賭博²はもっともよく知られた賭博である。"
+			},
+			{
+				"x-pmcp": "- 獣裁 mugaxiju",
+				"ja": "- 獣裁（【獣裁】：ザウㇷ゚シュー/ムガシユ）"
+			},
+			{
+				"x-pmcp": "kaleti belpic leti kantel e mowileti xiju pi ka e pupcukleti pi e juleleti julo jo aucleti xiju leti cubelpic.",
+				"ja": "「愚かな投げ棒」という意味のこのゲームは、投げ棒を使った賭博のうち、最も単純で基本的なものである。"
+			},
+			{
+				"x-pmcp": "1. jo belpic leti polto aucleti lata amolit late.",
+				"ja": "1. 参加者全員が場に賭け金を出す。"
+			},
+			{
+				"x-pmcp": "2. aucleti lata doktit xiju jo panleti nole. pi kanteit tude xileja leti kin.",
+				"ja": "2. 参加者全員が投げ棒を１回投げ、表の数を記録する。"
+			},
+			{
+				"x-pmcp": "3. jo auc xep kin e kile pi kaleti lata iceit aucleti late. (2leti o xep kaleti lata mol pi cileti lata cet lap amolit late pi mak-mak doktit xiju.)",
+				"ja": "3. 最も大きい数を出したプレーヤーが賭け金を全て取る。（そのようなプレーヤーが２人以上いる場合、そのプレーヤーたちだけが新たに賭け金を出し、再び投げ棒を投げる。）"
+			},
+			{
+				"x-pmcp": "- 連撃獣裁 mak-mak xiju",
+				"ja": "- 連撃獣裁 （【連撃獣裁】：ニェックッザウㇷ゚シュー）"
+			},
+			{
+				"x-pmcp": "jo ka lapekante leti mugaciju leti cul leti makleti e waxec. ka e launzakante.",
+				"ja": "上記「獣裁」の手順2. を以下のように変えたものである。"
+			},
+			{
+				"x-pmcp": "1. lata doktit xiju pi kanteit tude cileti kin.",
+				"ja": "1. 投げ棒を投げ、出た数を記録する。"
+			},
+			{
+				"x-pmcp": "2. lata mak doktit xiju (tumok) o tectelit kin (xonmak).",
+				"ja": "2. プレーヤーはもう一度投げる（【再行】 再行：トュモーㇰ）か、数を確定させるか（【積値】 積値：ショーンマーㇰ）を選ぶ。"
+			},
+			{
+				"x-pmcp": "jo co mak doktit xiju leti nole",
+				"ja": "もう一度投げる場合："
+			},
+			{
+				"x-pmcp": "co mak doktit xiju pi atakecit cileti kin. (pi jo xon nole, jo kaleti nole xiju leti kin e 0leti o 1leti pi tek e nip.)",
+				"ja": "もう一度投げ棒を投げ、その数を合計する。（ただし、このとき０か１が出た場合、それまでの合計は失われる）"
+			},
+			{
+				"x-pmcp": "jo co tectelit kin leti nole",
+				"ja": "数を確定させる場合："
+			},
+			{
+				"x-pmcp": "co iceit aucleti tek.",
+				"ja": "その数の合計を獲得する。"
+			},
+			{
+				"x-pmcp": "3. mak-mak it 2leti pi jo it tek e nip leti o tectelit tek leti nole lucucit.",
+				"ja": "3. 合計が失われるか確定するまで2. を繰り返す。"
+			},
+			{
+				"x-pmcp": "ka e doktit xiju leti cul pi kaleti alailen e 連撃術 (mak-mak-doktit).",
+				"ja": "これは「【連撃術】（連撃術：ニェッククッズィーッ）」と呼ばれる投げ棒の投げ方である。"
+			},
+			{
+				"x-pmcp": "- 新遊 lutu",
+				"ja": "- 新遊（新遊：ルートゥー）"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic kanteit tude 0-1-2-3-4-5 leti kin jo tidip pi lucit ka.",
+				"ja": "このゲームでは、以下のように０～５までの数が書かれた紙を使う。"
+			},
+			{
+				"x-pmcp": "0\t1\t2\t3\t4\t5",
+				"ja": "【0】0\t【1】1\t【2】2\t【3】3\t【4】4\t【5】5"
+			},
+			{
+				"x-pmcp": "1. tectelit panleti xeplata pi etleti lata e nuxeplata.",
+				"ja": "1.１人の親を決め、その他のプレーヤーは子になる。"
+			},
+			{
+				"x-pmcp": "2. aucleti nuxeplata amolit late jo 0-1-2-3-4-5 leti pan.",
+				"ja": "2.子全員が０～５のどれかに賭け金を置く。"
+			},
+			{
+				"x-pmcp": "3. xeplata doktit xiju.",
+				"ja": "3.親が投げ棒を投げる。"
+			},
+			{
+				"x-pmcp": "4. nuxeplata leti amolit late leti kinlujot e panleti jo xiju leti kin pi ci letit cekel. kaleti cekel e jo launza leti cukulal. nuxeplata leti amolit late leti kinlujot e waxec jo xiju leti kin pi xeplata letit cileti late.",
+				"ja": "4.賭けていた数字と一致している子がいれば、以下の配当を受け取る。外れた子の賭け金は親が受け取る。"
+			},
+			{
+				"x-pmcp": "8lt late 0\t4lt late 1\t2lt late 2\t2lt late 3\t4lt late 4\t8lt late 5",
+				"ja": "x8 0\tx4 1\tx2 2\tx2 3\tx4 4\tx8 5"
+			},
+			{
+				"x-pmcp": "cetkaik",
+				"ja": "机戦"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic, lata lucit \"zo\" at \"bepale\" at \"xiju\" at \"kin leti bepale\". launza leti nocti mol.",
+				"ja": "このゲームでは駒とボード、投げ棒、得点盤を使用する。以下の特徴がある。"
+			},
+			{
+				"x-pmcp": "- jo nip xon nole makleti lata it ka pi makleti lata mak-mak tudeit cileti zo.",
+				"ja": "- 多くは２人で行い、各プレーヤーが交互に各陣営の駒を動かす。"
+			},
+			{
+				"x-pmcp": "- jo zo enja mol pi etleti enja pulonit etleti tudeleti.",
+				"ja": "- 駒に役職があり、その役職に応じて異なる動きをする。"
+			},
+			{
+				"x-pmcp": "- xon nutok mol pi xon anpe mol.",
+				"ja": "- 特殊な効果をもたらすマスが存在する。"
+			},
+			{
+				"x-pmcp": "- cijujuctelit zo pi molkait.",
+				"ja": "- 特定の駒を集めると勝利する。"
+			},
+			{
+				"x-pmcp": "kaleti nole leti cetkaik leti xep nocti e lucit dat pi kinpit kin leti cul. jo penulleti nole molkaleti o molipkaleti e letit tude cu leti paujun. pi lucit dat leti cul mol pi \"jo molipkait leti nole, molipkaleti delu e nuxep.\" leti cul e kile. pi kaleti belpic e kile jo xaneleti. jo kaleti nole leti cetkaik xep kin leti neclanac mol pi jo paclukup xelit lata leti liju kije (jo jecnup leti mo leti inixale) leti \"liju leti cetkaik\" pi xelit juleleti cela.",
+				"ja": "現代机戦の大きな特徴として、役に基づく得点システムがある。かつては勝敗に基づいて賭け金をやり取りしていたが、このシステムの導入により、「よりよく負ける」という戦術が生まれ、ゲームに深みが増した。現代机戦にはさまざまなバリエーションが存在するが、基本的なシステムの紹介のために、まずは学校の「文化」の授業で学ぶ「教育机戦」について解説する。"
+			},
+			{
+				"ja": "2\tアイル共和国においては賭博は合法である一方、賭博を原因として生じた暴行・傷害などに関しては重い罰則が課されている。日本においては刑法 185 条~187 条で賭博行為等は禁じられており、この記述は国内でのそういった行為を推奨するものではない。以下同様。"
+			}
+		],
+		"4": "TODO",
+		"5": "TODO",
+		"6": "TODO",
+		"7": "TODO",
+		"8": "TODO",
+		"9": "TODO",
+		"10": "TODO",
+		"11": "TODO",
+		"12": "TODO",
+		"13": "TODO",
+		"14": "TODO",
+		"15": "TODO",
+		"16": "TODO",
+		"17": "TODO",
+		"18": "TODO",
+		"19": "TODO",
+		"20": "TODO"
+	}
+}
