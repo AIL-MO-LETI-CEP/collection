@@ -546,7 +546,108 @@
 				"ja": "3\t投げ棒を投げる際に、移動先をどの程度宣言する必要があるかという点については標準的なルールブックに記載されていない。 (『我々の遊戯』原文ではこの標準ルールブックでの不備におそらくあえて言及していない。)そのため、プレーヤーごとに異同がある。 「行く場所を宣言する必要がある」、「行く方向を宣言する必要がある」、「何も宣言しなくてよい」などのバリエーションがある。また「行く場所を宣言する必要がある」ルールでは投げ棒の数が足りなかったときにそれより近くのマスに移動してよいかという問題もある。"
 			}
 		],
-		"7": "TODO",
+		"7": [
+			{
+				"x-pmcp": "同色 panleti dec/bepok 上2",
+				"ja": "同色　【同色】：バッポㇰ +2"
+			},
+			{
+				"x-pmcp": "panleti dat e panleti dec leti zo cet.",
+				"ja": "１つの役が１色だけで構成"
+			},
+			{
+				"x-pmcp": "- noleleti dat",
+				"ja": "- 状況役"
+			},
+			{
+				"x-pmcp": "皇再来 mak-kile tantumok 下3",
+				"ja": "皇再来　【皇再来】：タㇺトュザㇰ -3"
+			},
+			{
+				"x-pmcp": "jo etleti lata tudeit tan leti launza leti lata e tan tude. lucit tan pi nip e tude.",
+				"ja": "相手が皇を移動した後に皇を移動する、皇を利用したパス "
+			},
+			{
+				"x-pmcp": "撃皇 cemokoit-tan/kutan下5",
+				"ja": "撃皇 【撃皇】：クッタㇺ -5"
+			},
+			{
+				"x-pmcp": "cemokoit tan. ",
+				"ja": "皇を踏越えする "
+			},
+			{
+				"x-pmcp": "caupla pulonit zo",
+				"ja": "王のワイルドカード（歪術）"
+			},
+			{
+				"x-pmcp": "panleti caupla mol pi ka e dukaleti kin leti dat. jo auc leti nole ka letit bepok pi caupla e nokaleti kin. co cene lucit caupla pi lauzait dat. pi, caupla nip cene pulonit etleti dec leti zo.",
+				"ja": "【王】はそれ⼀枚で３点役 【王】を構成し、常に同⾊が加わるので実質５点になる。 さらに王は他の駒の一つの代わりに用いて、役を構成することができる。ただし、他の色の駒の代わりにはなれない。"
+			},
+			{
+				"x-pmcp": "lauzait cetleti dat jo panleti nole",
+				"ja": "役の同時成立"
+			},
+			{
+				"x-pmcp": "co cene lucit panleti zo jo cetleti dat. keco, jo kopzo co letit 王車兵船 pi co cene lauzait 王 at 車弓兵 at 船兵兵.",
+				"ja": "一つの駒は複数の役を構成するのに用いることができる。例えば手駒に【王車兵船】があれば、【王】、【車弓兵】、【船兵兵】が成立する。"
+			},
+			{
+				"x-pmcp": "nip mak-mak kinpit panleti dat",
+				"ja": "同一役非重複"
+			},
+			{
+				"x-pmcp": "co nip cene mak-mak kinpit panleti dat jo panleti nole. keco, co letit 2leti 船 at 4leti 兵 pi co nip letit 2leti 船兵兵.",
+				"ja": "同⼀役は重複しない。例えば、【船】を２枚、【兵】を4枚持っていたとしても、【船兵兵】が２つあるとはみなさない。"
+			},
+			{
+				"x-pmcp": "delu lap kinpit bepok",
+				"ja": "同⾊優越"
+			},
+			{
+				"x-pmcp": "makleti nuwaxecleti dat e lauza pi panleti e bepok pi etleti nip e bepok. jo kaleti nole co deliju lap kinpit bepok leti dat. keco, jo kopzo co letit delneleti 車 at ludecleti 車 at delneleti 弓 at delneleti 兵 pi co lap letit bepok leti 車弓兵 leti kin.",
+				"ja": "同⼀役であり、同⾊のものと同⾊でないものが同時に成⽴した場合は同⾊である役のみを数える。例えば黒の【車】と赤の【車】、黒の【弓】、黒の【兵】が⼿駒にある場合は同⾊【車弓兵】のみの点数を得る。"
+			},
+			{
+				"x-pmcp": "官定机戦 ail panit leti cetkaik",
+				"ja": "標準机戦（【官定机戦】：ユーホヮーㇷ゚セッカイㇰ）"
+			},
+			{
+				"x-pmcp": "ail panit leti cetkaik e ail mo leti cep leti \"ail panit leti cetkaik leti kulante\" panit leti cepkulante. ka e mi cet nip cene cikinait leti julo jo lukupit xep kin leti cepkulante leti nole. jo xep julo ka e panleti jo liju leti cetkaik pi nip kanteit tude cileti julo pi lap kanteit tude waxecleti julo.",
+				"ja": "標準机戦はアイル共和国文化省『アイル統一机戦書』において統一されたルールであり、さまざまなルールを語る上で避けて通れないものである。多くの部分において教育机戦と共通点があるため、そのような箇所を省略して、差異だけ記す。"
+			},
+			{
+				"x-pmcp": "pac it leti poto",
+				"ja": "初期配置"
+			},
+			{
+				"x-pmcp": "🖼️",
+				"ja": "🖼️"
+			},
+			{
+				"x-pmcp": "belpic leti cela at dije leti xep pulac",
+				"ja": "ゲームの構造・手番の概要"
+			},
+			{
+				"x-pmcp": "molkaleti nip e 2?leti kin pi e 4?leti kin.",
+				"ja": "勝利条件は20点ではなく40点である。"
+			},
+			{
+				"x-pmcp": "zo leti tudeleti",
+				"ja": "駒の動き"
+			},
+			{
+				"x-pmcp": "atakecit launza leti zo jo liju leti cetkaik ",
+				"ja": "教育机戦の駒に加えて以下の駒を追加する。"
+			},
+			{
+				"x-pmcp": "papelleti\ttanke",
+				"ja": "通常\t皇処"
+			},
+			{
+				"x-pmcp": "虎\ncucit\ndau\t🖼️\t🖼️",
+				"ja": "【虎】\n虎\nダーウ\t🖼️\t🖼️"
+			}
+		],
 		"8": "TODO",
 		"9": "TODO",
 		"10": "TODO",
