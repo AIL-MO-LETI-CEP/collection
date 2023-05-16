@@ -385,7 +385,58 @@
 				"ja": "┄ その⽅向に何マスか移動。間の駒を⾶び越えて良い。"
 			}
 		],
-		"5": "TODO",
+		"5": [
+			{
+				"x-pmcp": "papelleti\ttanke",
+				"ja": "通常\t皇処"
+			},
+			{
+				"x-pmcp": "船\npijume\nmu-ak\nnu-ak\t🖼️\t🖼️",
+				"ja": "【船】\n船\nムアーㇰ\nヌアーㇰ\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "兵\nelme\nkauk\t🖼️\t🖼️",
+				"ja": "【兵】\n兵\nカーウㇰ\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "弓\nkuctu\ngu-a\t🖼️\t🖼️",
+				"ja": "【弓】\n弓\nグヮー\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "車\nxije\nkaun\t🖼️\t🖼️",
+				"ja": "【車】\n車\nカーゥン\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "巫\ntancuk\ntuk\t🖼️\t🖼️",
+				"ja": "【巫】\n巫\nトゥーㇰ\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "tanke leti 巫 lap xenkanit jo cucpezen mol zo leti panleti.",
+				"ja": "皇処の【巫】は直線上にある駒のうち1つしか飛び越えられない。"
+			},
+			{
+				"x-pmcp": "将\nxan\nwai\t🖼️\t🖼️",
+				"ja": "【将】\n将\nワーイ\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "tanke leti 将 cecnutit nectunleti 8leti nutok. etleti lata nip cene letit jo kaleti 8leti nutok mol untik leti zo.",
+				"ja": "相手は、皇処の【将】が触れる周囲8マスにある味方の駒を取ることができない。"
+			},
+			{
+				"x-pmcp": "王\ncaupla\njo-u\t🖼️\tpanleti jo papelleti nole",
+				"ja": "【王】\n王\nヨウ\t🖼️\t通常と同じ"
+			},
+			{
+				"x-pmcp": "皇\ntan\ntam\t🖼️\tpanleti jo papelleti nole",
+				"ja": "【皇】\n皇\nタㇺ\t🖼️\t通常と同じ"
+			}
+		],
+		"5-6": [
+			{
+				"x-pmcp": "lucit 王 leti tudeleti mak e tude. aucleti lata cene tudeit ka. 皇 leti nectunleti lekkaleti nutok e tanke.",
+				"ja": "【王】の動きを２回する。お互いのプレーヤーが移動可能である。周囲８マスを皇処にする。"
+			}
+		],
 		"6": "TODO",
 		"7": "TODO",
 		"8": "TODO",
