@@ -821,7 +821,60 @@
 				"ja": "【船】\n船\nムアーㇰ\nヌアーㇰ\t相手の船に遮られない限り水の中ならどこへでも動ける。水から出ることができないが、駒に取られることもない。船が船を踏むことも出来ない。"
 			}
 		],
-		"11": "TODO",
+		"11": [
+			{
+				"x-pmcp": "兵\nelme\nkauk\t🖼️\t🖼️",
+				"ja": "【兵】\n兵\nカーウㇰ\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "e tude jo etleti lata leti 3leti etecel leti cipoto pi cene e tude jo 6 leti lujot.",
+				"ja": "相手側 3 段に入ると前後左右に 1 マス動けるようになる。"
+			},
+			{
+				"x-pmcp": "弓\nkuctu\ngu-a\t🖼️\t",
+				"ja": "【弓】\n弓\nグヮー\t🖼️\t"
+			},
+			{
+				"x-pmcp": "車\nxije\nkaun\t🖼️\tjo letit zo leti nole xenkanit kaleti zo pi tude jo cileti panleti cipoto.",
+				"ja": "【車】\n車\nカーゥン\t🖼️\t駒を取るときはその駒を跳び、駒の一つ向こうのマスに動く。"
+			}, {
+				"x-pmcp": "獣\npice\t🖼️\tjo letit zo leti nole xenkanit kaleti zo pi tude jo cileti panleti cipoto.",
+				"ja": "【獣】\n獣\nザゥㇷ゚\t🖼️\t駒を取るときはその駒を跳び、駒の一つ向こうのマスに動く。"
+			}, {
+				"x-pmcp": "将\nxan\nwai\t🖼️\t",
+				"ja": "【将】\n将\nワーイ\t🖼️\t"
+			}, {
+				"x-pmcp": "王\ncaupla\njo-u\t🖼️\t",
+				"ja": "【王】\n王\nヨウ\t🖼️\t"
+			},{
+				"x-pmcp": "cemokoit",
+				"ja": "踏越え"
+			},
+			{
+				"x-pmcp": "jo penulleti cetkaik lata cene lap cemokoit 船. pi, cene mak-mak cemokoit 船. cemokoit pi cene letit zo. letit zo pi nip cene cemokoit. (delu xelit \"xije at pice\".) ",
+				"ja": "古机戦においては船以外の駒を踏むことはできない。しかし、船を連続で踏越えをすることが認められる。踏越えの後で駒を取ることはできるが、駒を取ってからの踏越えはできない（「車・獣」参照）。"
+			},
+			{
+				"x-pmcp": "xije at pice",
+				"ja": "車・獣"
+			},
+			{
+				"x-pmcp": "xije at pice",
+				"x-flag-incorrect": true
+			},
+			{
+				"x-pmcp": "cileti panleti cipoto leti nutok e tanna o nip e bepale leti polto pi nip cene e tude jo cileti panleti cipoto leti nutok pi nip cene letit cileti zo (jo xon cepkulante lata cene letit zo pi nipit xiju o pice). ",
+				"ja": "「一つ向こうのマス」が水・盤外などで動けない場合にはその駒を取ることはできない（車・獣が失われるのと引き換えに駒を取れる変種も存在する）。"
+			},
+			{
+				"x-pmcp": "jo etleti zo mol jo cileti panleti cipoto leti nutok leti nole, nip cene letit xenkanit leti zo. jo 船 mol jo cileti panleti cipoto leti nutok, nip cene it \"letit zo pi cemokoit\". deliju xelit ka cila.",
+				"ja": "「一つ向こうのマス」に他の駒がいる場合も跳んだ駒を取ることはできない。特に、船が「一つ向こうのマス」にある場合でも、駒を取って踏越えをすることはできないため、注意が必要である。"
+			},
+			{
+				"x-pmcp": "jo atakecit leti, jo penulleti nole lata lucit wacpalbit leti 車 at 獣. ka e \"kaleti makleti nip e dicnoc\" o \"kaleti makleti e dicnoc\" o \"車 lap e dicnoc\" o et. jo 獣 nip e dicnoc leti nole, lata atakecit belpic leti cepkulante jo nole. ka e \"zo cene cemokoit jo makleti o xep nole\".",
+				"ja": "なお、車と獣に関しては、歴史的には「両方走らない」・「両方走る」・「車だけ走る」などの変種があったとされている。獣が走らない場合は駒が連続して跳ぶことができるという規則が追加されて遊ばれる場合もある。"
+			}
+		],
 		"12": "TODO",
 		"13": "TODO",
 		"14": "TODO",
