@@ -649,8 +649,178 @@
 			}
 		],
 		"8": "TODO",
-		"9": "TODO",
-		"10": "TODO",
+		"8-9": [
+			{
+				"x-pmcp": "jo tudeleti cul etleti julo mol jo polto. launza leti ka e 硬皇力 pi e kaniciti jo etleti julo pi letit panleti nocti. ka e jo tanke leti zo tude jo cunetleti jo aucleti nole.",
+				"ja": "動き方についても地域による差異があった。以下はその中でも比較的有名な【硬皇力】(硬皇力:ペㇰタンピュ)と呼ばれるもので、 皇処で常に駒が強くなるという特徴がある。"
+			}
+		],
+		"9": [
+			{
+				"x-pmcp": "papelleti\ttanke",
+				"ja": "通常\t皇処"
+			},
+			{
+				"x-pmcp": "弓\nkuctu\ngu-a\t🖼️\t🖼️",
+				"ja": "【弓】\n弓\nグヮー\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "車\nxije\nkaun\t🖼️\t🖼️",
+				"ja": "【車】\n車\nカーゥン\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "馬\ndodo\nmaun\t🖼️\t🖼️",
+				"ja": "【馬】\n馬\nマーゥン\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "巫\ntancuk\ntuk\t🖼️\t🖼️",
+				"ja": "【巫】\n巫\nトゥーㇰ\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "jo 硬皇力 leti et, jo poto o nole, 船 jo tanke at 弓 leti tudeleti e panleti leti wacpalbit at 虎 at 馬 leti tudeleti e panleti leti poto at 弓 at 車 leti tudeleti e panleti leti poto mol. jo atakecit leti, jo poto zo xon e tude jo tanna.",
+				"ja": "硬皇力以外にも、その他、地域や時代によっては皇処の【船】が【弓】と同じ動きをする規則や、虎と馬が同じ動きをする地域、【弓】と【車】が同じ動きをする地域などが存在する。また、地域によっては皇水で異なる動きをする駒が存在する場合もある。"
+			},
+			{
+				"x-pmcp": "cetleti neclanac leti dat",
+				"ja": "さまざまな役"
+			},
+			{
+				"x-pmcp": "- laiju-pice-laiju leti pecela",
+				"ja": "- 連獣連体系 "
+			},
+			{
+				"x-pmcp": "王、将巫筆、馬虎、車弓兵 e jule leti pecela. jo atakecit leti, atakecit 船車馬 pi atakecit 船 leti lucit leti cul. kaleti dat e nenulel leti dat. atakecit lucit cetleti 兵 leti dat pi it 兵 leti kak e xep leti nole e cetleti.",
+				"ja": "【王】、【将巫筆】、【馬虎】、【車弓兵】を基本とする体系。これに加え、【船】の使い道を確保するために乗り物を集めた【船車馬】が採用されていたり、【兵】の価値を高めるために【兵】にまつわる役が何個か足されていることが多かった。"
+			},
+			{
+				"x-pmcp": "- 3leti laiju leti zo leti pecela",
+				"ja": "- 三連体系"
+			},
+			{
+				"x-pmcp": "xepit lape leti pecela pi \"3leti laiju leti zo e dat\" leti wacpalbit mol. ka e panleti jo launza.",
+				"ja": "上の体系を拡張して、3 つの連続する駒を役とすることがあった。以下の通りである。"
+			},
+			{
+				"x-pmcp": "王、将巫筆、巫筆馬、筆馬虎、馬虎車、虎車弓、車弓兵、弓兵船",
+				"ja": "王、将巫筆、巫筆馬、筆馬虎、馬虎車、虎車弓、車弓兵、弓兵船 "
+			},
+			{
+				"x-pmcp": "jo penulleti kinpit kin leti cul aucleti kin e ka.",
+				"ja": "それぞれの点数は、前述の古計算法により、次のようになる"
+			},
+			{
+				"x-pmcp": "2-4leti cepkulante: 2 | 56?片 | 48?片 | 52?片 | 6 | 44?片 | 28?片",
+				"ja": "2 倍・4 倍ルール: 2 | 5.6 | 4.8 | 5.2 | 6 | 4.4 | 2.8"
+			},
+			{
+				"x-pmcp": "pi, dodo leti kak e tude jo xep kak cila. jo kaleti julo ka jol nip e kaniciti. jo etleti julo kaleti cela lauzait nincetkaik jo xep julo. mi cet lukupit nincetkaik jo launza.",
+				"ja": "しかしながら、馬の価値が高くなりすぎるためか、あまり普及はしなかったようである。一方でこの体系は後に紹介する紙机戦に大きな影響を与えた。"
+			},
+			{
+				"x-pmcp": "- mopleti dat leti pecela",
+				"ja": "- 具象役体系 "
+			},
+			{
+				"x-pmcp": "letit mobit pankaleti julo leti dat cet leti cepkulante mol. kaleti naclanac leti dat e xelit panleti lawa o kileleti polto leti lata pi cet waxecleti mol. keco, 光戦王集 e lucit 将馬弓兵 leti dat.",
+				"ja": "モチーフを具象するような役を多く持つ体系も存在した。この種の役は世代や出身によってよって著しい差異が見られた。たとえば、【将馬弓兵】を集める光戦王集(【光戦王集】:アイカイㇰヨウダッ)という役などがあった。"
+			},
+			{
+				"x-pmcp": "kinpit panleti dat leti cul",
+				"ja": "同一役の数え方"
+			},
+			{
+				"x-pmcp": "panleti dat cet mol pi jo ail panit leti cetkaik kinpit cileti dat jo panleti nole. jo poto kinpit jo makleti. jo et xelit kinpit dat leti nole leti kin pi atakecit kin leti cepkulante mol.",
+				"ja": "同一役が複数成立している場合、標準机戦ではその役を1回しか数えないが、地域によっては2回数える場合や、個数に基づいて加点するといった規則が存在する。"
+			}
+		],
+		"10": [
+			{
+				"x-pmcp": "kin leti jukenel",
+				"ja": "得点の上限"
+			},
+			{
+				"x-pmcp": "jo ail panit leti cetkaik panleti lata iceit 4?leti kin pi belpic e lucuc. jo nole belpic e zel jo aucleti xot e lucuc leti nole. jo et pi nip lucit kin leti bepale pi letit leti late e tude o kile.",
+				"ja": "標準机戦では一方のプレーヤーが 40 点を獲得するとゲームが終了するが、場合によっては全ての季節が終わるまでゲームを続けることや、そもそも得点盤を使わずに所持金をやり取りする場合もある。"
+			},
+			{
+				"x-pmcp": "古机戦 penulleti cetkaik",
+				"ja": "古机戦(【古机戦】:ズィアーセッカイㇰ) "
+			},
+			{
+				"x-pmcp": "lucit dat leti kinpecela molip pi xiju leti panxenco molip pi ka e penulleti cetkaik. cene letit leti kin e nuxep pi panxenco molip pi nip e kaniciti jo cubelpic. mi cet nip cene patac ticotit kije cepkulante. pi, jo kantel mi cet cene kante kije cepkulante leti nuxep julo.\njo kaleti polto mi cet kanteit tude penulleti cetkaik. kaleti cepkulante e ail panit leti julo. cetleti polto leti wacpalbit mol jo kulante pi mi cet kanteit tude ka.",
+				"ja": "役に基づく得点システムがなく、投げ棒によるランダム要素のない机戦を古机戦と呼んでいる。ここでは、文化省が標準化した新古机戦というルールを取り上げ、加えて文献に見られる地方差などについても取り扱う。"
+			},
+			{
+				"x-pmcp": "pac it leti nole",
+				"ja": "初期配置"
+			},
+			{
+				"x-pmcp": "jo penulleti cetkaik dec kaceit letit leti lata. jo kaleti cepkulante kopzo molip. jo panleti cepkulante xije at pice leti poto e nupanleti pi jo etleti cepkulante cene inpelit xije at pice leti pac it leti poto. coxetleti nutok mol jo bepale leti cucital pi ka e tanna. zo nip e 船 pi ci nip cene e tude jo tanna pi 船 nip cene e tude jo nip tanna leti nutok.",
+				"ja": "古机戦においては色が陣営を示す。また、このルールでは手駒は存在しない。また、【車】と【獣】の位置が逆の変種や、【車】と【獣】の初期位置を交換できるという変種も存在する。中央付近の青いマスは水(nua2)と呼ばれ、船以外の駒は水に入ることができず、船がここから出ることもできない。"
+			},
+			{
+				"x-pmcp": "🖼️",
+				"ja": "🖼️"
+			},
+			{
+				"x-pmcp": "belpic leti cela",
+				"ja": "ゲームの構造"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic panleti xot mol pi jo panleti xot nupanleti dije mol. jo dije lata letit panleti zo pi tudeit cileti zo pi xelit letit etleti zo leti cul. mak-mak dije e tude pi lata lauzait lap panleti dat leti caupla pi ci e molkaleti lata. jo atakecit leti, makleti lata nip cene molkait pi lukupit ka pi belpic e deleje. lata nip cene cikinait etleti lata leti letit cileti caupla pi ci ticotit ka pi ci cene lukupit numolkait leti.",
+				"ja": "このゲームは多くの場合1つの季節によって成り立っており、 1 つの季節は複数の手番によって成り立っている。手番において、 プレーヤーは1つの駒を選び、その駒を動かし、他の駒の獲得を目指す。これを繰り返し、唯一の役である 【王】(王)を完成させたプレーヤーが勝者となる。なお、 勝負がつかなくなったとお互いが認めたときは引き分けとなり、自らの王が取られることが避けられないことが分かった場合には投了することができる。"
+			},
+			{
+				"x-pmcp": "dije leti xep pulac",
+				"ja": "手番の概要"
+			},
+			{
+				"x-pmcp": "- 1. tudeleti awi (delu it ka)",
+				"ja": "- 1. 移動フェーズ(必ず行う) "
+			},
+			{
+				"x-pmcp": "tudeit zo.",
+				"ja": "駒を移動する。"
+			},
+			{
+				"x-pmcp": "- tudeit leti zo e panleti.",
+				"ja": "- 動かす駒は一つ。"
+			},
+			{
+				"x-pmcp": "- lap tudeit untik leti zo.",
+				"ja": "- 自分の駒しか動かせない。"
+			},
+			{
+				"x-pmcp": "- lucit zo untik leti tudeleti cul. kaleti cul e panleti jo launza.",
+				"ja": "- 駒固有の動き(後述)に従う。"
+			},
+			{
+				"x-pmcp": "- 2. letit kije leti awi",
+				"ja": "- 2. 獲得フェーズ(移動先に相手の駒があれば) ",
+				"x-flag-incorrect": true
+			},
+			{
+				"x-pmcp": "letit kije leti awi (etleti lata leti zo mol jo zo e tude leti polto pi delu it ka)jo bepale nipit zo pi kaleti zo e tude jo untik leti kopzo.",
+				"ja": "駒を盤上から除き自分の手駒に加える。",
+				"x-flag-incorrect": true
+			},
+			{
+				"x-pmcp": "tudeleti awi",
+				"ja": "移動フェーズ"
+			},
+			{
+				"x-pmcp": "- zo leti tudeleti",
+				"ja": "- 駒の動き "
+			},
+			{
+				"x-pmcp": "jo panleti dije lata letit zo pi tudeit zo. jo kaleti nole lata delu tudeit untik leti zo. jo zo e tude leti nole lucit zo untik leti tudeleti cul.",
+				"ja": "各手番に、プレーヤーは駒を一つ選び移動する。この際、プレーヤーは自分の駒を動かすことになる。駒の移動は駒固有の動きに従う。"
+			},
+			{
+				"x-pmcp": "船\npijume \nmu-ak \nnu-ak\tcene e tude jo aucleti tanna jo etleti lata leti 船 leti kapoto. nip cene tude jo nip tanna leti poto pi etleti zo nip cene letit ka. 船 nip cene cemokoit 船.",
+				"ja": "【船】\n船\nムアーㇰ\nヌアーㇰ\t相手の船に遮られない限り水の中ならどこへでも動ける。水から出ることができないが、駒に取られることもない。船が船を踏むことも出来ない。"
+			}
+		],
 		"11": "TODO",
 		"12": "TODO",
 		"13": "TODO",
