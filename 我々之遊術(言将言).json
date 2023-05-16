@@ -266,7 +266,124 @@
 				"ja": "2\tアイル共和国においては賭博は合法である一方、賭博を原因として生じた暴行・傷害などに関しては重い罰則が課されている。日本においては刑法 185 条~187 条で賭博行為等は禁じられており、この記述は国内でのそういった行為を推奨するものではない。以下同様。"
 			}
 		],
-		"4": "TODO",
+		"4": [
+			{
+				"x-pmcp": "与学机戦 liju leti cetkaik",
+				"ja": "- 教育机戦（【与学机戦】：トゥイヌイセッカイㇰ）"
+			},
+			{
+				"x-pmcp": "pac it leti nole",
+				"ja": "初期配置"
+			},
+			{
+				"x-pmcp": "jo pac it belpic leti nole, jo bepale auc leti zo mol pi zo mol polto e panleti jo launza. panleti lata pupcuk kanteit kije zo leti lujot pi kaleti zo e kaleti lata leti. mak pi jo auc leti lata \"kopzo\" mol pi ka e lata leti letit kije leti zo leti delu mol polto.",
+				"ja": "ゲーム開始時、全ての駒は盤上にある。各駒は以下のように配置される。あるプレーヤーにとって読みやすい方向の駒がそのプレーヤーの駒である。また各プレーヤーにはそれぞれ手駒と呼ばれる獲得した駒が存在すべきスペースがある。"
+			},
+			{
+				"x-pmcp": "🖼️",
+				"ja": "🖼️"
+			},
+			{
+				"x-pmcp": "belpic leti cela",
+				"ja": "ゲームの構造"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic nupanleti xot mol pi jo panleti xot nupanleti dije mol. jo papelleti nole kaleti xot e je-xo-kat-jat pi e jupleti. jo dije lata tectelit panleti zo pi tudeit cileti zo pi celene letit etleti zo. mak-mak dije e tude pi jo cileti nole panleti lata lauzait dat pi lukupit letit cileti kin leti julo pi kaleti xot e lucuc pi launza leti xot delu e kile. jo auc leti xot e lucuc leti nole o jo panleti lata leti kin kile jo 2?leti o xep kin leti nole, kaleti belpic delu e lucuc.",
+				"ja": "このゲームは複数の季節（通常、春夏秋冬の４季）によって成り立っており、1つの季節は複数の手番によって成り立っている。手番において、プレーヤーは１つの駒を選び、その駒を動かし、他の駒の獲得を目指す。手番を繰り返し、プレーヤーが役を完成させ、その点数を獲得する宣言をするとその季節が終了し、次の季節に移る。季節が全て終わるか、一方のプレーヤーの持ち点が20点以上に到達した際、ゲームは終了する。"
+			},
+			{
+				"x-pmcp": "dijeleti xep pulac",
+				"ja": "手番の概要"
+			},
+			{
+				"x-pmcp": "- 1. tudeleti awi (delu it ka)",
+				"ja": "- 1. 移動フェーズ（必ず行う）"
+			},
+			{
+				"x-pmcp": "tudeit zo.",
+				"ja": "駒を移動する。"
+			},
+			{
+				"x-pmcp": "- tudeit leti zo e panleti.",
+				"ja": "- 動かす駒は一つ。"
+			},
+			{
+				"x-pmcp": "- lap tudeit untik leti zo o tan.",
+				"ja": "- ⾃分の駒または【皇】しか動かせない。"
+			},
+			{
+				"x-pmcp": "- lucit zo untik leti tudeleti cul. kaleti cul e panleti jo launza.",
+				"ja": "- 駒固有の動き（後述）に従う。"
+			},
+			{
+				"x-pmcp": "- 2. letit kije leti awi (etleti lata leti zo mol jo zo leti tudeleti polto pi delu it ka)",
+				"ja": "- 2. 獲得フェーズ（移動先に相手の駒があれば）"
+			},
+			{
+				"x-pmcp": "jo bepale nipit zo pi kaleti zo e tude jo untik leti kopzo.",
+				"ja": "駒を盤上から除き自分の手駒に加える。"
+			},
+			{
+				"x-pmcp": "- tan e tude pi etleti zo nip e kile.",
+				"ja": "- 【皇】で他の駒は獲得できない。"
+			},
+			{
+				"x-pmcp": "- lata nip cene letit tan.",
+				"ja": "- 【皇】を獲得することはできない。"
+			},
+			{
+				"x-pmcp": "- 3. lukupit leti awi (jo kopzo dat mol pi delu it ka)",
+				"ja": "- 3. 宣言フェーズ（⼿駒に役が成⽴していれば）"
+			},
+			{
+				"x-pmcp": "lukupit launza leti panleti.",
+				"ja": "以下のいずれかの宣⾔を⾏う。"
+			},
+			{
+				"x-pmcp": "再行 tumok",
+				"ja": "【再行】（再⾏)：トュモーㇰ"
+			},
+			{
+				"x-pmcp": "kin leti paujun delu e tude jo makleti ka pi xot e tude. kin leti paujun e kin leti tudeleti at kileleti leti paujun pi jo kaleti launza leti nole ka leti paujun e tude jo 4leti pi mak it pi 8leti.",
+				"ja": "点数レートを倍にして季を続⾏。\n点数レートは点数の受取と⽀払に影響し、その後４倍、８倍……となる。"
+			},
+			{
+				"x-pmcp": "終季 taxot",
+				"ja": "【終季】（終季)：タショㇳ"
+			},
+			{
+				"x-pmcp": "lucucit xot pi lukupit ka leti lata kinpit jo kaleti nole mol kin. jo lukupit taxot leti launza paujun delu e tude jo panleti.",
+				"ja": "季節を終了し、宣言者がその時点で完成させている役の点数を獲得する。\n終季宣⾔の後、レートをリセットする。"
+			},
+			{
+				"x-pmcp": "tudeleti awi",
+				"ja": "移動フェーズ"
+			},
+			{
+				"x-pmcp": "- zo leti tudeleti",
+				"ja": "- 駒の動き"
+			},
+			{
+				"x-pmcp": "jo panleti dije lata tectelit zo pi tudeit. jo kaleti nole lata delu tudeit untik leti zo o tan. jo zo e tude leti nole lucit zo untik leti tudeleti cul.",
+				"ja": "各手番に、プレーヤーは駒を一つ選び移動する。この際、プレーヤーは⾃分の駒もしくは皇を動かすことになる。駒の移動は駒固有の動きに従う。"
+			},
+			{
+				"x-pmcp": "〇 e tude jo kaleti nutok. nip cene xenkanit cecijo leti zo.",
+				"ja": "〇 そのマスに移動。間の駒を⾶び越えられない。"
+			},
+			{
+				"x-pmcp": "◌ e tude jo kaleti nutok. cene xenkanit cecijo leti zo.",
+				"ja": "◌ そのマスに移動。間の駒を⾶び越えて良い。"
+			},
+			{
+				"x-pmcp": "― e tude jo kaleti lal. nip cene xenkanit cecijo leti zo.",
+				"ja": "― その⽅向に何マスか移動。間の駒を⾶び越えられない。"
+			},
+			{
+				"x-pmcp": "┄ e tude jo kaleti lal. cene xenkanit cecijo leti zo.",
+				"ja": "┄ その⽅向に何マスか移動。間の駒を⾶び越えて良い。"
+			}
+		],
 		"5": "TODO",
 		"6": "TODO",
 		"7": "TODO",
