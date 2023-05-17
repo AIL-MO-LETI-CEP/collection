@@ -1,15 +1,42 @@
-kinpit kin leti penulleti cul	古計算法
-jo kaleti nole leti cetkaik lata xelit dat pi lap it pupcukleti atakecit kin leti. pi, jo penulleti nole aucleti zo letit jo launza leti kin. 	現代机戦では、役に応じて単に足し算をするだけであるが、かつてはそれぞれの駒に以下のような点数があった。
-atakecit zo leti kin pi jo aucleti dat atakecit lauzait dat leti zo leti 2leti kin (jo elme mol o makleti zo mol) o 4leti kin (jo etleti dat).	この合計を求め、さらにそれぞれの役に対して構成駒の 2 倍(兵の絡む役や 2 つの駒から構成される役)または 4 倍(その他の役)を加点していた。
-船 ?片	船 0.1 
-兵 2?片	兵 0.2 
-筆 3?片	筆 0.3 
-弓 4?片	弓 0.4 
-馬 4?片	馬 0.4 
-車 5?片	車 0.5 
-巫 5?片	巫 0.5 
-虎 6?片	虎 0.6 
-将 6?片	将 0.6 
-王 1	王 1.0
-jo poto lata lucit panleti cepkulante. ka e "elme mol dat o makleti zo leti dat cucnit 3leti. pi etleti dat cucnit 5leti". jo nole lata lucit etleti cepkulante. ka e "dat e dat leti 3leti o 5leti pi lap atakecit dat molip zo leti kin". jo kaleti nole xelit panleti lawa o kileleti polto leti lata pi it kaleti cul.	地方によっては、「兵の絡む役や 2 つの駒から構成される役は 3 倍、その他の役を 5 倍」というルールを用いることもあった。また、「役に対しては 3 倍や 5 倍、役に関与してない駒だけを追加で足す」というルールを用いることもあった。現代でも世代や出身によってはこういった方法を用いている。
-cetleti tudeleti cul	さまざまな移動法
+付片 kinunzaleti bapala	公開札（【付片】：クンツォウ）
+co amolit kinunzaleti bapala jo pankaleti polto pi auc leti lata cene xelit ka.	プレーヤー全員に見えるように指定された位置に公開される札。
+斥片 nipit leti bapala	捨札（【斥片】：ソァッツォウ）
+nipit jo kopzo leti bapala.	手札から捨てられた札。
+- belpic leti nole leti jucne	- ゲームの時間的単位
+行 dije	手番（【行】：モウㇰ）
+panleti lata leti panleti dije.	ある競技者の一手番。
+日 cai	ラウンド（【日】：キャー）
+ka e jucne pi ka e jo pac itleti lata leti dije jo lucucleti lata leti dije.	1回目の最初の人の手番から1回目の最後の人の手番までを表す単位。
+季 xot	季節（【季】：ショッ）
+belpic leti kile jo lucucleti nole leti jucne.	終了条件を満たすまでの単位。
+戦 belpic	ゲーム（【戦】：カイㇰ）
+tectelit molka o nip leti jucne.	勝敗が決するまでの単位。
+終季 taxot	終季（【終季】：タショッ)
+lukupit xot leti lucucleti julo.	季節の終わりを宣言すること。
+-lata leti enja leti lukup	- プレーヤーの役割に関するもの
+軸人 xeplata	親（【軸人】：ラースㇰ）
+jo panleti xot leti pac it dije leti lata.	その季節の最初に行動をする人。
+周人 nuxeplata	子（【周人】：セイスㇰ）
+jo xeplata waxec leti lata.	親以外の人。
+- kin leti cepat leti lukup	- 得点の種類に関するもの
+位値 xeplata leti atakecit leti paujun	親の加点（【位値】：プイマーㇰ）
+xeplata lap letit leti kin. jo pac it leti nole ka e 2leti pi panleti molka atakecit 1leti jo ka.	親のみが持つ値。初期は2で、一回勝つごとに1ずつ加算される。
+終値 lucucit leti kin	終了点（【終値】：タマーㇰ）
+jo xot e lucuc leti nole lata cene letit kaleti kin. 	季節が終わったタイミングで得られる得点。
+加値 atakecleti kin	ボーナス点（【加値】：アッマーㇰ）
+jo belpic e lucuc leti nole lata letit kaleti kin.	終了点に加点される得点。
+時値 kankileleti kin	臨時点 （【時値】：カㇰマーㇰ）
+jo pankaleti denepoc lata cene letit kaleti kin.	その条件下で得られる得点。"x-translation-sidenote": {"detail": "直訳は「良い条件下で得られる得点」"}
+行戦 mokaik	行戦（行戦：モㇰカイㇰ)
+jo kaleti belpic aucleti lata kaceit dat pi xelit kaleti bapala leti zelena pi tectelit molkaleti lata. lata mak-mak it kaleti nuxep belpic. jo aucleti launza leti nuxep belpic molkaleti lata iceit kin.	このゲームでは、全員が順に役を表向きに出し、その強さを比較し、勝者を決める小さな勝負を繰り返す⁶。最後の勝負に勝利したプレーヤーが得点を得る。
+pac it leti cul	準備
+aucleti lata letit kopzo. kopzo leti kin e ka.	プレーヤー全員に以下の枚数の札を配る。
+2-3-4leti lata: ?leti	2~4人：10枚
+5-6leti lata: 8leti	5~6人：8枚
+tectelit xeplata jo pankaleti cul.	その後、適当な方法で親を決める。 "x-translation-sidenote": {"detail": "直訳は「良い方法で親を決める」"}
+belpic e tude jo kame	ゲームの進行
+panleti lata kaceit dat pi etleti lata kaceit nuwaxecleti dec at nuwaxecleti neclanac leti dat. ka dat deliju e cunet jo lape leti dat. jo xot e pac leti cai xeplata kaceit bapala jo pac. jo nip pac leti cai molkait jo cileti lape leti cai leti lata kaceit bapala jo pac.	一人が札の役を表向きに出し、その後ほかのプレーヤーがそれより強く、同じ色、同じタイプの役を表向きに出す。季節のはじめのラウンドは親が最初に札を表向きに出す。次回のラウンド以降は前回のラウンドの勝者が最初に札を表向きに公開する。
+bapala leti zelena at dat	- このルールにおける札の強さと役
+zelena\npanleti jo papelleti.	札の強さ…通常通り。
+dat\ncene lucit panleti o (2leti o xep) mena o (3leti o xep) laiju leti kin.	札の役…一枚・セット（何枚でも）・連番（3枚以上）を用いることができる。
+- jo "panleti dec leti mena"	-「同じ色の組み合わせ」について
