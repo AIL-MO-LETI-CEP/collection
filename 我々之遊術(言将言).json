@@ -648,7 +648,147 @@
 				"ja": "【虎】\n虎\nダーウ\t🖼️\t🖼️"
 			}
 		],
-		"8": "TODO",
+		"8": [
+			{
+				"x-pmcp": "馬\ndodo\nmaun\t🖼️\t🖼️",
+				"ja": "【馬】\n馬\nマーゥン\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "tanke leti 馬 lap xenkanit jo nectunleti zo leti panleti.",
+				"ja": "皇処の【馬】は周囲にある駒のうち１つしか飛び越えられない。"
+			},
+			{
+				"x-pmcp": "筆\nkuwa\nku-a\t🖼️\t🖼️",
+				"ja": "【筆】\n筆\nクヮー\t🖼️\t🖼️"
+			},
+			{
+				"x-pmcp": "jo atakecit leti, ludecleti nutok e tanke. tandec leti nutok e tanke o tanna.",
+				"ja": "また、赤色⁴のマスも皇処として扱う。緑色のマスは皇処かつ皇水である。"
+			},
+			{
+				"x-pmcp": "dat at kin",
+				"ja": "役・点数"
+			},
+			{
+				"x-pmcp": "atakecit launza leti papelleti dat. jo ail panit leti cetkaik aucleti dat letit cileti alailen.",
+				"ja": "通常役を以下に変更する。標準机戦では各役に特有の名前がついている。加点役と状況役に変更はない。",
+				"x-flag-incorrect": {
+					"detail": "和訳は「通常役を以下に変更する」だが、東島通商語は「以下の通常役を追加する」になってしまっている。また、和訳の「加点役と状況役に変更はない。」が東島通商語から漏れている。"
+				}
+			},
+			{
+				"x-pmcp": "無抗行処 auc/mun-mak-mok-hu-e auc leti cepat leti zo pi tan molip 5?",
+				"ja": "無抗行処 【無抗行処】 ムンマーㇰモークホエ 皇以外全種類 50"
+			},
+			{
+				"x-pmcp": "筆兵無傾 kua at elme/ku-a-kauk-mun-aum 兵弓将筆巫 ?",
+				"ja": "筆兵無傾 【筆兵無傾】 クヮカゥㇰムーンアウム 兵弓将筆巫 10"
+			},
+			{
+				"x-pmcp": "地心 mo/hu-ep hi-a 筆巫将 7",
+				"ja": "地心 【地心】 ホェㇷ゚ヒャー　 筆巫将 7"
+			},
+			{
+				"x-pmcp": "馬弓兵 bepice elme/maun-gu-a-kauk 兵弓馬 7",
+				"ja": "馬弓兵 【馬弓兵】 マゥングヮカゥㇰ 兵弓馬 7"
+			},
+			{
+				"x-pmcp": "行々 tude-tude/mo-uk-mo-uk 船車馬 5",
+				"ja": "行行 【行々】 モゥㇰモゥㇰ 船車馬 5"
+			},
+			{
+				"x-pmcp": "王 caupla/jo-u 王 3",
+				"ja": "王 【王】 ヨウ 王 3"
+			},
+			{
+				"x-pmcp": "獣 cucit dodo/saup 虎馬 3",
+				"ja": "獣 【獣】 ザゥㇷ゚ 虎馬 3"
+			},
+			{
+				"x-pmcp": "戦集 elme cet/kaik-dat 将兵兵 3",
+				"ja": "戦集 【戦集】 カイㇰダッ 将兵兵 3"
+			},
+			{
+				"x-pmcp": "助友 mena/waip-hi 車兵兵 3",
+				"ja": "助友 【助友】 ワイㇷ゚ヒー 車兵兵 3"
+			},
+			{
+				"x-pmcp": "闇戦之集 kapa-nip-mol/kait-kaik-a-dat 兵兵兵兵兵 3",
+				"ja": "闇戦之集 【闇戦之集】 ホエッカイㇰアダッ 兵兵兵兵兵 3"
+			},
+			{
+				"x-pmcp": "jo poto o nole leti wacpalbit",
+				"ja": "地域や時代による差"
+			},
+			{
+				"x-pmcp": "jo ail panit leti cetkaik leti et xon cepkulante mol jo poto o nole. jo ka bijotit ci cet.",
+				"ja": "標準机戦のほか、地域や時代によって特有な規則が行われていた。ここではそれらについて紹介する。"
+			},
+			{
+				"x-pmcp": "lucit mak-mak-doktit",
+				"ja": "連撃術の採用"
+			},
+			{
+				"x-pmcp": "jo nole, lucit mak-mak-doktit jo cemokoit pi doktit xiju leti nole.",
+				"ja": "踏越えで投げ棒を投げる際、連撃術を使う場合もある。"
+			},
+			{
+				"x-pmcp": "kinpit kin leti penulleti cul",
+				"ja": "古計算法"
+			},
+			{
+				"x-pmcp": "jo kaleti nole leti cetkaik lata xelit dat pi lap it pupcukleti atakecit kin leti. pi, jo penulleti nole aucleti zo letit jo launza leti kin. atakecit zo leti kin pi jo aucleti dat atakecit lauzait dat leti zo leti 2leti kin (jo elme mol o makleti zo mol) o 4leti kin (jo etleti dat).",
+				"ja": "現代机戦では、役に応じて単に足し算をするだけであるが、かつてはそれぞれの駒に以下のような点数があった。この合計を求め、さらにそれぞれの役に対して構成駒の 2 倍(兵の絡む役や 2 つの駒から構成される役)または 4 倍(その他の役)を加点していた。"
+			},
+			{
+				"x-pmcp": "船 ?片",
+				"ja": "船 0.1 "
+			},
+			{
+				"x-pmcp": "兵 2?片",
+				"ja": "兵 0.2 "
+			},
+			{
+				"x-pmcp": "筆 3?片",
+				"ja": "筆 0.3 "
+			},
+			{
+				"x-pmcp": "弓 4?片",
+				"ja": "弓 0.4 "
+			},
+			{
+				"x-pmcp": "馬 4?片",
+				"ja": "馬 0.4 "
+			},
+			{
+				"x-pmcp": "車 5?片",
+				"ja": "車 0.5 "
+			},
+			{
+				"x-pmcp": "巫 5?片",
+				"ja": "巫 0.5 "
+			},
+			{
+				"x-pmcp": "虎 6?片",
+				"ja": "虎 0.6 "
+			},
+			{
+				"x-pmcp": "将 6?片",
+				"ja": "将 0.6 "
+			},
+			{
+				"x-pmcp": "王 1",
+				"ja": "王 1.0"
+			},
+			{
+				"x-pmcp": "jo poto lata lucit panleti cepkulante. ka e \"elme mol dat o makleti zo leti dat cucnit 3leti. pi etleti dat cucnit 5leti\". jo nole lata lucit etleti cepkulante. ka e \"dat e dat leti 3leti o 5leti pi lap atakecit dat molip zo leti kin\". jo kaleti nole xelit panleti lawa o kileleti polto leti lata pi it kaleti cul.",
+				"ja": "地方によっては、「兵の絡む役や 2 つの駒から構成される役は 3 倍、その他の役を 5 倍」というルールを用いることもあった。また、「役に対しては 3 倍や 5 倍、役に関与してない駒だけを追加で足す」というルールを用いることもあった。現代でも世代や出身によってはこういった方法を用いている。"
+			},
+			{
+				"x-pmcp": "cetleti tudeleti cul",
+				"ja": "さまざまな移動法"
+			}
+		],
 		"8-9": [
 			{
 				"x-pmcp": "jo tudeleti cul etleti julo mol jo polto. launza leti ka e 硬皇力 pi e kaniciti jo etleti julo pi letit panleti nocti. ka e jo tanke leti zo tude jo cunetleti jo aucleti nole.",

@@ -1,18 +1,15 @@
-jo atakecit leti, 皇 at 王 leti zelena e nuwaxec pi 船 pulonit nuwaxecleti dec leti etleti bapala.	加えて、【皇】・【王】は同じ強さとみなし、【船】は同色札の代わりとなる。
-色 dec	色 （【色】：ポㇰ）
-一枚の札の色。黒と赤の2種類がある。	ka e bapala leti dec. delneleti at ludecleti mol.
-- lucit bapala leti cul leti lukup	- ゲーム中の札運用に関わるもの
-集 dat	役 （【集】：ダッ）
-ka e pankaleti bapala cet. "panleti dat" deliju e panleti neclanac at panleti kin leti dat.	札の組み合わせ。「同じ役」といった場合、同じタイプでかつ同じ枚数の組み合わせである必要がある。
-dat leti neclanac	役のタイプ
-一 panleti zo	一枚（【一】：エッ）
-panleti zo mol pi ka e dat.	単一の札による役。
-友 mena	セット（【友】：ヒー）
-panleti zelena leti bapala cet mol pi ka e dat. cene letit waxecleti dec.	同じ強さの札による役。同じ色である必要はない。
-連 laiju leti kin	連番（【連】：ニエㇰ）
-panleti dec leti bapala e laiju pi ka e dat. pi, nip cene xelit 船 jo 下1leti o 9leti pi xelit 王 at 皇 jo 9leti jo xep kin leti cepkulante.	同色で数字が連続する位の札による役。ただし、船を-1や9として扱ったり、王や皇を9として扱うことは多くの規則ではできない。
-bapala leti poto	札の状態
-積片 bapala leti lukxe	山札（【積片】：ショーㇺツォウ)
-ka e bapala leti lukxe pi mol jo lata pupcuk letit leti poto.	各プレーヤーが取りやすい位置に置く札の山。
-手片 kopzo	手札（手片：ホーㇷ゚ツォウ）
-jo pac belpicit leti nole letit tude ka jo panleti lata.	ゲーム開始時、各プレーヤーに一定枚数与える札。
+kinpit kin leti penulleti cul	古計算法
+jo kaleti nole leti cetkaik lata xelit dat pi lap it pupcukleti atakecit kin leti. pi, jo penulleti nole aucleti zo letit jo launza leti kin. 	現代机戦では、役に応じて単に足し算をするだけであるが、かつてはそれぞれの駒に以下のような点数があった。
+atakecit zo leti kin pi jo aucleti dat atakecit lauzait dat leti zo leti 2leti kin (jo elme mol o makleti zo mol) o 4leti kin (jo etleti dat).	この合計を求め、さらにそれぞれの役に対して構成駒の 2 倍(兵の絡む役や 2 つの駒から構成される役)または 4 倍(その他の役)を加点していた。
+船 ?片	船 0.1 
+兵 2?片	兵 0.2 
+筆 3?片	筆 0.3 
+弓 4?片	弓 0.4 
+馬 4?片	馬 0.4 
+車 5?片	車 0.5 
+巫 5?片	巫 0.5 
+虎 6?片	虎 0.6 
+将 6?片	将 0.6 
+王 1	王 1.0
+jo poto lata lucit panleti cepkulante. ka e "elme mol dat o makleti zo leti dat cucnit 3leti. pi etleti dat cucnit 5leti". jo nole lata lucit etleti cepkulante. ka e "dat e dat leti 3leti o 5leti pi lap atakecit dat molip zo leti kin". jo kaleti nole xelit panleti lawa o kileleti polto leti lata pi it kaleti cul.	地方によっては、「兵の絡む役や 2 つの駒から構成される役は 3 倍、その他の役を 5 倍」というルールを用いることもあった。また、「役に対しては 3 倍や 5 倍、役に関与してない駒だけを追加で足す」というルールを用いることもあった。現代でも世代や出身によってはこういった方法を用いている。
+cetleti tudeleti cul	さまざまな移動法
