@@ -1355,7 +1355,140 @@
 				"ja": "6\t要するにトリックテイキングゲーム。"
 			}
 		],
-		"14": "TODO",
+		"13-14": [
+			{
+				"x-pmcp": "delneleti at ludecleti at ludecleti balapa mol pi launza leti lata delu amolit delneleti at ludecleti at ludecleti leti dukaleti balapa leti mena. (nip cene amolit delneleti at delneti at ludecleti o et.).",
+				"ja": "もし黒、赤、赤が出されているならば、続けて出すことができるのは黒、赤、赤からなる3枚セットの役だけである（黒、黒、赤などは不可）。"
+			}
+		],
+		"14": [
+			{
+				"x-pmcp": "nip cene o nip celene kaceit panleti dec leti dat pi co nipit bapala. nipit leti bapala leti kin e nuwaxec jo dat leti bapala leti kin pi jo nipit leti nole co kaceit jo mot bapala.",
+				"ja": "同じ色の役を出せない、もしくは出せるが出したくない場合は、札を捨てる。捨てる札の枚数は役の枚数と同じとし、札を捨てるときには伏せる。"
+			},
+			{
+				"x-pmcp": "aucleti lata kaceit panleti dat pi cai e lucuc pi tectelit cileti cai leti molkait leti lata. kaceit jo auc cunetleti dat leti lata e molkait leti lata.",
+				"ja": "全プレーヤーが1つずつ組み合わせを出すとラウンドが終了し、ラウンドの勝敗判定を行う。最も強い役を出した人がそのラウンドの勝者となる。"
+			},
+			{
+				"x-pmcp": "jo lape leti cai molkaleti lata kinunzait ci kaceit leti bapala. celene ticotit kije kaceit leti lata pi delu amolit kinunzaleti bapala jo nucucital. dutucunleti cai e pac pi jo lape leti cai molkaleti lata kaceit bapala leti dat.",
+				"ja": "ラウンドの勝者は勝負に自らが出した札を公開札として、誰が出したか分かるように端に寄せておく。その後新たなラウンドとなり、前回のラウンドの勝者が札の役を出す。"
+			},
+			{
+				"x-pmcp": "jo amolit aucleti bapala leti nole aucleti launza leti cai leti molka leti lata molkait cileti xot.",
+				"ja": "全ての札を出し終えたとき、最後のラウンドの勝者がその季節の勝者となる。"
+			},
+			{
+				"x-pmcp": "jo panleti xot molkaleti lata iceit panleti kin jo aucleti numolkaleti lata. numolkaleti lata letit tude leti kin e ka.",
+				"ja": "季節の勝者は季節の敗者一人ずつからそれぞれ点数を得る。それぞれの敗者が支払う点数は以下の通り。"
+			},
+			{
+				"x-pmcp": "kin",
+				"ja": "点数"
+			},
+			{
+				"x-pmcp": "aucleti lata letit tude kin jo molkaleti lata. kaleti kin e nuwatakecit cileti kinunzait leti bapala leti kin jo 6leti leti kin. ka e nuxep jo 0leti pi molkaleti lata letit tude ka.",
+				"ja": "季節ごとに、勝者は敗者一人ずつからそれぞれ点数を得る。それぞれの敗者が支払う点数は以下の通り。（6から自身の手元にある公開札の枚数を引いた数）点を支払う。（マイナス点の場合は季節の勝者が点を支払う）"
+			},
+			{
+				"x-pmcp": "molkaleti lata e xeplata pi cucnit xeplata leti atakecit leti kin jo ka.",
+				"ja": "軸人の場合、これに親の加点を掛け算する。"
+			},
+			{
+				"x-pmcp": "- kinpit leti lacila",
+				"ja": "- 点数計算例"
+			},
+			{
+				"x-pmcp": "ka e p at b at m belpicit pi p e xeplata pi xeplata leti atakecit leti paujun e makleti nole leti lacila.",
+				"ja": "甲、乙、丙でゲームを行っていて、甲が親、親の加点が2である場合の計算例を示す。"
+			},
+			{
+				"x-pmcp": "p letit 7leti kinunzaleti bapala pi b letit 2leti pi m letit 1leti pi b molkait jo kaleti xot. jo kaleti nole, p letit tude下2leti kin jo b (letit kije 2leti kin jo b). ka e jo 下1(ka e 6下7) cucnit xeplata leti atakecit leti 2leti kin. m letit tude 5(ke e 6下1) jo b.",
+				"ja": "甲が7、乙が2、丙が1の公開札を持っていて、乙がこの季節の勝者となった場合、甲は乙に(6-7)=-1に親の加点2を掛けた-2点を支払い（＝乙から2点をもらい）、丙は乙に(6-1)=5点を支払う。"
+			},
+			{
+				"x-pmcp": "終季 taxot ",
+				"ja": "終季（終季：タショッ）"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic aucleti lata letit 5leti bapala jo pac. xelit lauzait lucucleti kopzo leti cela jo 6leti bapala leti julo pi mak-mak iceit 1leti bapala pi nipit 1leti bapala.",
+				"ja": "このゲームでは、初期手札5枚から札を1枚引いて捨てることを繰り返し、6枚で上がり形を作ることを目指す⁷。"
+			},
+			{
+				"x-pmcp": "pac it leti cul",
+				"ja": "準備"
+			},
+			{
+				"x-pmcp": "aucleti lata letit 5leti bapala pi tectelit xeplata.",
+				"ja": "全プレーヤーに札を5枚ずつ配り、親を決める。"
+			},
+			{
+				"x-pmcp": "belpic e tude jo kame",
+				"ja": "ゲームの進行"
+			},
+			{
+				"x-pmcp": "jo xeplata dije e tude jo laiju. jo coleti dije co deliju iceit bapala jo lukxe pi nipit nudelecleti bapala. mak-mak it ka.",
+				"ja": "親から順に手番が移動する。\n手番には山札から札を引き、不要な札を捨てることを繰り返す。"
+			},
+			{
+				"x-pmcp": "jo xon nole, jo etleti lata nipit bapala pi lucit ci pi cene lauzait 3leti mena o 3leti laiju leti kin o 4leti mena leti nole cene letit cileti bapala. ka e 開 (nan).\npi, delu lauzait leti dat e kinunzaleti bapapa pi delu letit tude 1leti kin jo letit ci jo pac leti lata.",
+				"ja": "例外：札が捨てられた時に、その札で3枚セット・3枚連番・4枚セットが作れる場合に限り、その札を取ることが出来る。（鳴き　【開】：ナㇺ）ただし、出来た役は公開札とし、相手に1点を支払わなければならない。"
+			},
+			{
+				"x-pmcp": "pamecit taxot leti dat",
+				"ja": "- 終季できる役"
+			},
+			{
+				"x-pmcp": "zelena\n- panleti jo papelleti",
+				"ja": "札の強さ… 通常通り。"
+			},
+			{
+				"x-pmcp": "dat\n- cene lucit 2leti mena at 3leti mena at 4leti mena at 3leti laiju leti kin.",
+				"ja": "札の役…2枚セット・3枚セット・4枚セット・3枚連番を用いることができる。"
+			},
+			{
+				"x-pmcp": "- jo lucucleti kopzo leti cela delu e panleti jo ka.",
+				"ja": "- 上がり形の一覧"
+			},
+			{
+				"x-pmcp": "- [2leti mena][2leti mena][2leti mena]",
+				"ja": "[2枚セット][2枚セット][2枚セット]"
+			},
+			{
+				"x-pmcp": "- [2leti mena][4leti mena]",
+				"ja": "[2枚セット][4枚セット]"
+			},
+			{
+				"x-pmcp": "- [2leti mena/laiju leti kin][3leti mena/laiju leti kin]",
+				"ja": "[3枚セット/3枚連番][3枚セット/3枚連番]"
+			},
+			{
+				"x-pmcp": "jo kaleti nole lata e etleti lata xelit aucleti kopzo pi letit tude o kije kin jo dat.",
+				"ja": "その時の手札を全て公開し、手札の組み合わせによって点数をやり取りする。"
+			},
+			{
+				"x-pmcp": "jo lata untik iceit bapala pi lukupit taxot leti nole ci letit kije kin jo aucleti lata.",
+				"ja": "自身が札を引いて終季する場合は自分以外の全員から点数を得る。"
+			},
+			{
+				"x-pmcp": "lucit etleti lata nipit leti bapala pi lukupit taxot pi letit kije kin jo nipit cileti bapala leti lata.",
+				"ja": "他のプレーヤーが捨てた札を使って終季する場合はその札を捨てた人から点数を得る。"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "7\t麻雀のようなセットコレクションゲーム。"
+			}
+		],
+		"14-15": [
+			{
+				"x-pmcp": "lukupit taxot leti lata e xeplata jo launza leti xot.",
+				"ja": "終季した人は次の季節の親となる。"
+			},
+			{
+				"x-pmcp": "kin",
+				"ja": "点数"
+			}
+		],
 		"15": "TODO",
 		"16": "TODO",
 		"17": "TODO",
