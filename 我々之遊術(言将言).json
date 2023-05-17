@@ -1489,7 +1489,167 @@
 				"ja": "点数"
 			}
 		],
-		"15": "TODO",
+		"15": [
+			{
+				"x-pmcp": "終値 leti 位値 at 加値 at 時値",
+				"ja": "終了点 × 親の加点 + ボーナス点 + 臨時点"
+			},
+			{
+				"x-pmcp": "- lucucit leti nole leti kin",
+				"ja": "- 終了点"
+			},
+			{
+				"x-pmcp": "終季 taxot: 2leti",
+				"ja": "終季（【終季】：タショッ）2点"
+			},
+			{
+				"x-pmcp": "ka e juleleti kin. jo lukupit taxot leti aucleti nole letit ka.",
+				"ja": "終季した際に自動的に付与される基本点"
+			},
+			{
+				"x-pmcp": "同色 bepok: 1leti",
+				"ja": "同色（【同色】：バッポㇰ）1点"
+			},
+			{
+				"x-pmcp": "aucleti kopzo leti dec e panleti pi letit ka.",
+				"ja": "終季した手の6枚がすべて同じ色である"
+			},
+			{
+				"x-pmcp": "六連 6leti laiju leti kin: 1leti",
+				"ja": "六連（【六連】：ネッニェㇰ）1点"
+			},
+			{
+				"x-pmcp": "2leti 3leti laiju leti kin lauzait kopzo pi aucleti kopzo leti kin e laiju pi letit ka. makleti 3leti laiju leti kin leti dec nip deliju e panleti.",
+				"ja": "終季した手が2つの3枚連番からなり、6枚の数字が連続している（二つの3枚連番の色が一致している必要はない）"
+			},
+			{
+				"x-pmcp": "一周 panleti etecel leti cai: 3leti\\nlukupit taxot jo pac leti cai pi letit ka.",
+				"ja": "一周…3点：一ラウンド目での終季"
+			},
+			{
+				"x-pmcp": "- atakecleti kin",
+				"ja": "- ボーナス点"
+			},
+			{
+				"x-pmcp": "it 船 e pulon pi nip letit ka cet.",
+				"ja": "【船】で代用した場合は入らない。"
+			},
+			{
+				"x-pmcp": "皇王 tamjo: jo 1leti 皇 at 王 letit 1leti kin",
+				"ja": "皇王（【皇王】：タㇺヨウ）皇王１枚につき１点"
+			},
+			{
+				"x-pmcp": "光 aik: jo 1leti 光 letit 1leti kin",
+				"ja": "光（【光】：アイㇰ）１枚につき１点"
+			},
+			{
+				"x-pmcp": "jo lucit 光 leti cepkulante leti nole, jo xot e pac leti nole kinunzait 1leti lukxe leti bapala pi it ka 光. jo atakecit leti, jo xot e lucucleti nole kinunzait 1leti lukxe leti bapala pi it ka 光.",
+				"ja": "このルールを採用する時、最初に山札から一枚抜き出し公開し、光とする。また加えて終了時に山札から引き、これを光とする。"
+			},
+			{
+				"x-pmcp": "- kankileleti kin",
+				"ja": "- 臨時点"
+			},
+			{
+				"x-pmcp": "四友 4leti mena",
+				"ja": "四友（【四友】：アㇷ゚ヒー）"
+			},
+			{
+				"x-pmcp": "jo lata lauzait 4leti mena pi kinunzait leti nole auc deliju letit tude 1leti kin jo ci.",
+				"ja": "4枚セットを作り、公開するごとに即座に全員から1点をもらう。"
+			},
+			{
+				"x-pmcp": "開 nam",
+				"ja": "開（【開】：ナㇺ）…札をもらった相手に1点払う"
+			},
+			{
+				"x-pmcp": "jo lata lucit etleti lata kinunzait leti bapala pi lauzait 3leti mena o 3leti laiju leti kin o 4leti mena leti nole, lata deliju letit tude 1leti kin jo ci.",
+				"ja": "他人の捨てた札で3枚セット・3枚連番・4枚セットを作ったとき。"
+			},
+			{
+				"x-pmcp": "jo kaleti cepkulante leti kin leti tudeleti at kijeleti e nupanleti. polto at lawa waxecit ka.",
+				"ja": "このルールにおける点数収受は地方や世代といった社会集団に応じて大きな差異がある。"
+			},
+			{
+				"x-pmcp": "値戦 makaik",
+				"ja": "値戦（【値戦】：マㇰカイㇰ）"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic lata bilateit kinunzait leti bapala at kopzo pi lauzait cunetleti dat pi amolit kin pi elmeit.",
+				"ja": "このゲームでは、共通の公開札と手札を組み合わせてより強い役を作り、点数を賭けた後に勝負する⁸。"
+			},
+			{
+				"x-pmcp": "pac it leti cul",
+				"ja": "準備"
+			},
+			{
+				"x-pmcp": "aucleti lata letit 3leti kopzo pi kinunzait aucleti lata cene xelit leti 3leti bapala pi tectelit xeplata.",
+				"ja": "各プレーヤーに3枚ずつ配り、さらに3枚を共通の公開札とする。その後、親を決定する。"
+			},
+			{
+				"x-pmcp": "belpic e tude jo kame",
+				"ja": "ゲームの進行"
+			},
+			{
+				"x-pmcp": "kaleti belpic leti awi e ka. inpelit bapala leti awi at amolit kin leti awi at elmeleti awi.",
+				"ja": "このルールは札の交換を行うフェイズと賭けを行うフェイズ、勝負するフェイズによって構成される。"
+			},
+			{
+				"x-pmcp": "bapala leti zelena at dat",
+				"ja": "- 札の強さと役"
+			},
+			{
+				"x-pmcp": "zelena\n- panleti jo papelleti",
+				"ja": "札の強さ…通常通り。"
+			},
+			{
+				"x-pmcp": "dat\n- 3leti mena e cunet jo 3leti laiju leti kin pi 3leti laiju leti kin e cunet jo 2leti mena pi 2leti mena e cunet jo 1leti bapala.",
+				"ja": "札の役…強い順に3枚セット＞3枚連番＞2枚セット＞一枚である。"
+			},
+			{
+				"x-pmcp": "- bapala leti inpelleti",
+				"ja": "- 札の交換"
+			},
+			{
+				"x-pmcp": "jo pac leti cai lata inpelit bapala. makleti inpelit leti cul mol pi lata tectelit panleti.",
+				"ja": "最初の1ラウンドに各プレーヤーは札の交換を行う。交換は以下の2種類があり、そのうち1種類を選択する。"
+			},
+			{
+				"x-pmcp": "- inpelit 1leti kopzo at kinunzait leti bapala.",
+				"ja": "・手札1枚を公開札1枚と交換する。"
+			},
+			{
+				"x-pmcp": "- jo lukxe delu iceit 2leti bapala pi delu kinunzait 1leti kopzo at jo kaleti 1leti bapala. jo kaleti nole kinunzait leti nipit leti bapala e tude jo xelit leti bapala.",
+				"ja": "・山札から2枚を引いてそのうち1枚を手札と交換する。この際、交換した際の捨て札は公開札に追加される。"
+			},
+			{
+				"x-pmcp": "- amolit kin",
+				"ja": "- 賭け"
+			},
+			{
+				"x-pmcp": "jo belpic leti poto aucleti amolit 1leti kin.",
+				"ja": "全プレーヤーは1点を場に支払う。"
+			},
+			{
+				"x-pmcp": "xeplata tectelit jo cileti elmeleti e atakec o nip. xeplata nip e atakec pi launza leti lata e xeplata. xeplata tectelit paujun leti kin pi jo belpic leti polto amolit cileti kin.",
+				"ja": "親がその勝負に参加するかどうかを決定する。不参加の場合、親は次プレーヤーに移る。\n親は1点から5点の範囲で基準点を設定し、その点数を場に出す。",
+				"x-flag-incorrect": {
+					"detail": "「1点から5点の範囲で」が東島通商語の方から漏れている"
+				}
+			},
+			{
+				"x-pmcp": "xelit ka pi nuxeplata tectelit e atakec o nip. atakecleti nuxeplata amolit paujun leti kin. it ka jo 3leti cai.",
+				"ja": "それに対して子も参加するかどうか決定し、参加の場合は基準点を出す。\nこれを3ラウンド繰り返す。"
+			},
+			{
+				"x-pmcp": "tectelit nip atakecleti pi kaceit jo mot kopzo. jo kaleti nole nip cene e atakec jo kaleti elmeleti jo launza leti nole. jo atakecit leti, xeplata cene xepit paujun leti kin jo aucleti cileti dije.",
+				"ja": "不参加を選んだ場合は札を伏せる。この場合それ以降この賭けには参加できなくなる。\nなお、親は手番が来るたびに基準点の変更をすることができる。"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "8\tテキサスホールデムのようなゲーム。"
+			}
+		],
 		"16": "TODO",
 		"17": "TODO",
 		"18": "TODO",
