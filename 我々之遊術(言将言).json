@@ -797,12 +797,16 @@
 			{
 				"x-pmcp": "- 2. letit kije leti awi",
 				"ja": "- 2. 獲得フェーズ(移動先に相手の駒があれば) ",
-				"x-flag-incorrect": true
+				"x-flag-incorrect": {
+					"detail": "一部欠落。欠落部は直後のに貼り付いている"
+				}
 			},
 			{
 				"x-pmcp": "letit kije leti awi (etleti lata leti zo mol jo zo e tude leti polto pi delu it ka)jo bepale nipit zo pi kaleti zo e tude jo untik leti kopzo.",
 				"ja": "駒を盤上から除き自分の手駒に加える。",
-				"x-flag-incorrect": true
+				"x-flag-incorrect": {
+					"detail": "直前のやつの訳もここに改行無しで貼り付いている"
+				}
 			},
 			{
 				"x-pmcp": "tudeleti awi",
@@ -837,16 +841,20 @@
 			{
 				"x-pmcp": "車\nxije\nkaun\t🖼️\tjo letit zo leti nole xenkanit kaleti zo pi tude jo cileti panleti cipoto.",
 				"ja": "【車】\n車\nカーゥン\t🖼️\t駒を取るときはその駒を跳び、駒の一つ向こうのマスに動く。"
-			}, {
+			},
+			{
 				"x-pmcp": "獣\npice\t🖼️\tjo letit zo leti nole xenkanit kaleti zo pi tude jo cileti panleti cipoto.",
 				"ja": "【獣】\n獣\nザゥㇷ゚\t🖼️\t駒を取るときはその駒を跳び、駒の一つ向こうのマスに動く。"
-			}, {
+			},
+			{
 				"x-pmcp": "将\nxan\nwai\t🖼️\t",
 				"ja": "【将】\n将\nワーイ\t🖼️\t"
-			}, {
+			},
+			{
 				"x-pmcp": "王\ncaupla\njo-u\t🖼️\t",
 				"ja": "【王】\n王\nヨウ\t🖼️\t"
-			},{
+			},
+			{
 				"x-pmcp": "cemokoit",
 				"ja": "踏越え"
 			},
@@ -860,7 +868,9 @@
 			},
 			{
 				"x-pmcp": "xije at pice",
-				"x-flag-incorrect": true
+				"x-flag-incorrect": {
+					"detail": "前のと重複"
+				}
 			},
 			{
 				"x-pmcp": "cileti panleti cipoto leti nutok e tanna o nip e bepale leti polto pi nip cene e tude jo cileti panleti cipoto leti nutok pi nip cene letit cileti zo (jo xon cepkulante lata cene letit zo pi nipit xiju o pice). ",
@@ -875,7 +885,157 @@
 				"ja": "なお、車と獣に関しては、歴史的には「両方走らない」・「両方走る」・「車だけ走る」などの変種があったとされている。獣が走らない場合は駒が連続して跳ぶことができるという規則が追加されて遊ばれる場合もある。"
 			}
 		],
-		"12": "TODO",
+		"12": [
+			{
+				"x-pmcp": "nincetkaik leti belpic",
+				"ja": "紙机戦のゲーム"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic lata lucit 紙机戦 leti alailen leti bapala.",
+				"ja": "この遊びにおいては紙机戦（紙机戦：ニーンセッカイㇰ）というカードを使う。"
+			},
+			{
+				"x-pmcp": "belpic leti cul",
+				"ja": "ゲームの道具"
+			},
+			{
+				"x-pmcp": "片 zo/bapala",
+				"ja": "札（【片】：ツォウ）"
+			},
+			{
+				"x-pmcp": "jo belpic lucleti bapala. 48leti bapala e auc.",
+				"ja": "ゲームに用いるカードである。計48枚である。"
+			},
+			{
+				"x-pmcp": "🖼️",
+				"ja": "🖼️"
+			},
+			{
+				"x-pmcp": "1lt zo ln enja e",
+				"ja": "1種類の枚数",
+				"x-flag-incorrect": {
+					"detail": "ln → lt であるべきと思われる"
+				}
+			},
+			{
+				"x-pmcp": "1\t3\t4\t2\t2\t2\t2\t2\t2\t2\t1\t1",
+				"ja": "1\t3\t4\t2\t2\t2\t2\t2\t2\t2\t1\t1"
+			},
+			{
+				"x-pmcp": "値軸 kinpit leti xedixel",
+				"ja": "点棒（【値軸】：マーㇰラー）"
+			},
+			{
+				"x-pmcp": "ka e nectelleti xedixel pi jo kinpit kin leti nole lucit. pulanleti e 1leti kin pi ludecleti e 5leti kin pi delunleti e 25leti kin..",
+				"ja": "点数の計算に用いる細い棒。白は1点、赤は5点、黒は25点である⁵。",
+				"x-flag-incorrect": {
+					"detail": "ピリオドが多い"
+				}
+			},
+			{
+				"x-pmcp": "nincetkaik leti lukup",
+				"ja": "紙机戦の用語集"
+			},
+			{
+				"x-pmcp": "- bapala leti nocti leti lukup",
+				"ja": "- 札の構成に関わるもの"
+			},
+			{
+				"x-pmcp": "位 zelena",
+				"ja": "強さ （【位】：プイー）"
+			},
+			{
+				"x-pmcp": "ka e bapala leti zelena. delu xelit ka.",
+				"ja": "札の強弱。以下の通りである。"
+			},
+			{
+				"x-pmcp": "軟\t\t\t\t\t\t\t\t\t\t硬",
+				"ja": "弱\t\t\t\t\t\t\t\t\t\t強"
+			},
+			{
+				"x-pmcp": "船\t無\t兵\t弓\t車\t虎\t馬\t筆\t巫\t将\t王皇",
+				"ja": "【船】\t【無】\t【兵】\t【弓】\t【車】\t【虎】\t【馬】\t【筆】\t【巫】\t【将】\t【王皇】"
+			},
+			{
+				"x-pmcp": "\t0\t1\t2\t3\t4\t5\t6\t7\t8\t",
+				"ja": "\t0\t1\t2\t3\t4\t5\t6\t7\t8\t"
+			},
+			{
+				"x-pmcp": "jo atakecit leti, 皇 at 王 leti zelena e nuwaxec pi 船 pulonit nuwaxecleti dec leti etleti bapala.",
+				"ja": "加えて、【皇】・【王】は同じ強さとみなし、【船】は同色札の代わりとなる。"
+			},
+			{
+				"x-pmcp": "色 dec",
+				"ja": "色 （【色】：ポㇰ）"
+			},
+			{
+				"x-pmcp": "一枚の札の色。黒と赤の2種類がある。",
+				"ja": "ka e bapala leti dec. delneleti at ludecleti mol."
+			},
+			{
+				"x-pmcp": "- lucit bapala leti cul leti lukup",
+				"ja": "- ゲーム中の札運用に関わるもの"
+			},
+			{
+				"x-pmcp": "集 dat",
+				"ja": "役 （【集】：ダッ）"
+			},
+			{
+				"x-pmcp": "ka e pankaleti bapala cet. \"panleti dat\" deliju e panleti neclanac at panleti kin leti dat.",
+				"ja": "札の組み合わせ。「同じ役」といった場合、同じタイプでかつ同じ枚数の組み合わせである必要がある。"
+			},
+			{
+				"x-pmcp": "dat leti neclanac",
+				"ja": "役のタイプ"
+			},
+			{
+				"x-pmcp": "一 panleti zo",
+				"ja": "一枚（【一】：エッ）"
+			},
+			{
+				"x-pmcp": "panleti zo mol pi ka e dat.",
+				"ja": "単一の札による役。"
+			},
+			{
+				"x-pmcp": "友 mena",
+				"ja": "セット（【友】：ヒー）"
+			},
+			{
+				"x-pmcp": "panleti zelena leti bapala cet mol pi ka e dat. cene letit waxecleti dec.",
+				"ja": "同じ強さの札による役。同じ色である必要はない。"
+			},
+			{
+				"x-pmcp": "連 laiju leti kin",
+				"ja": "連番（【連】：ニエㇰ）"
+			},
+			{
+				"x-pmcp": "panleti dec leti bapala e laiju pi ka e dat. pi, nip cene xelit 船 jo 下1leti o 9leti pi xelit 王 at 皇 jo 9leti jo xep kin leti cepkulante.",
+				"ja": "同色で数字が連続する位の札による役。ただし、【船】を-1や9として扱ったり、【王】や【皇】を9として扱うことは多くの規則ではできない。"
+			},
+			{
+				"x-pmcp": "bapala leti poto",
+				"ja": "札の状態"
+			},
+			{
+				"x-pmcp": "積片 bapala leti lukxe",
+				"ja": "山札（【積片】：ショーㇺツォウ)"
+			},
+			{
+				"x-pmcp": "ka e bapala leti lukxe pi mol jo lata pupcuk letit leti poto.",
+				"ja": "各プレーヤーが取りやすい位置に置く札の山。"
+			},
+			{
+				"x-pmcp": "手片 kopzo",
+				"ja": "手札（【手片】：ホーㇷ゚ツォウ）"
+			},
+			{
+				"x-pmcp": "jo pac belpicit leti nole letit tude ka jo panleti lata.",
+				"ja": "ゲーム開始時、各プレーヤーに一定枚数与える札。"
+			},
+			{
+				"ja": "5\t紛失したり破損したりしやすいため、当連盟ではしばしば爪楊枝を染色して代用する。"
+			}
+		],
 		"13": "TODO",
 		"14": "TODO",
 		"15": "TODO",
