@@ -1523,7 +1523,7 @@
 				"ja": "終季した手が2つの3枚連番からなり、6枚の数字が連続している（二つの3枚連番の色が一致している必要はない）"
 			},
 			{
-				"x-pmcp": "一周 panleti etecel leti cai: 3leti\\nlukupit taxot jo pac leti cai pi letit ka.",
+				"x-pmcp": "一周 panleti etecel leti cai: 3leti\nlukupit taxot jo pac leti cai pi letit ka.",
 				"ja": "一周…3点：一ラウンド目での終季"
 			},
 			{
@@ -1650,7 +1650,161 @@
 				"ja": "8\tテキサスホールデムのようなゲーム。"
 			}
 		],
-		"16": "TODO",
+		"15-16": [
+			{
+				"x-pmcp": "elmeleti",
+				"ja": "勝負"
+			},
+			{
+				"x-pmcp": "jo 3leti cai e lucuc leti nole elmeit. kaceit cunetelti dat leti lata e molkaleti lata pi letit jo belpic leti poto leti aucleti kin.",
+				"ja": "3ラウンドの後、勝負をする。最も強い役を出した人が勝者となり、場の点数を総取りする。"
+			}
+		],
+		"16": [
+			{
+				"x-pmcp": "連友 neki",
+				"ja": "連友（連友：ニェㇰヒー)"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic lata amolit bapala jo laiju pi celene nipit kopzo. kaleti belpic e jo nuxep nole it nipit kopzo leti elme.",
+				"ja": "このゲームでは、手札を順番に場に出して行き、早く手札を無くすことを競う⁹。"
+			},
+			{
+				"x-pmcp": "pac it leti cul",
+				"ja": "準備 \"x-flag-incorrect-style\":\"東島通商語のが太字になっていない\""
+			},
+			{
+				"x-pmcp": "aucleti lata letit panleti kin leti kopzo pi tectelit xeplata.",
+				"ja": "プレーヤー全員に均等に札を配る。親を決定する。"
+			},
+			{
+				"x-pmcp": "bapala leti zelena at dat",
+				"ja": "札の強さと役"
+			},
+			{
+				"x-pmcp": "zelena\n- papelleti",
+				"ja": "札の強さ…通常通り。"
+			},
+			{
+				"x-pmcp": "dat\n- panleti, 2leti mena, 3leti o xep mena, laiju leti kin (3leti o xep), laiju leti kin leti mena",
+				"ja": "札の役…一枚・2枚セット・3枚以上のセット・連番（三枚以上）・連番のセットを用いることができる。"
+			},
+			{
+				"x-pmcp": "dec\n- jo kaleti belpic xenkanit bapala leti dec.",
+				"ja": "札の色…このゲームでは、札の色を無視する。"
+			},
+			{
+				"x-pmcp": "bapala leti xon anpe",
+				"ja": "札の特殊効果"
+			},
+			{
+				"x-pmcp": "将\nkinpit kaceit leti 将 pi delu it launza leti panleti. lukupit kinpit leti kin leti zelena pi nipit kaleti auc. jo et, jo nipit leti bapela jo kopzo atakecit kinpit leti kin leti bapela.",
+				"ja": "将…将を出した枚数分好きな強さの札を宣言し、その強さの全てをゲームから除外する。あるいは、将を出した枚数分捨て札の中から手札に加える。"
+			},
+			{
+				"x-pmcp": "jo laiju leti mena",
+				"ja": "- 連番のセットについて"
+			},
+			{
+				"x-pmcp": "keco, [1leti][1leti][2leti][2leti][3leti][3leti] e ka.",
+				"ja": "たとえば、[1][1][2][2][3][3]のような役である。"
+			},
+			{
+				"x-pmcp": "belpic e tude jo kame",
+				"ja": "ゲームの進行"
+			},
+			{
+				"x-pmcp": "xeplata kaceit bapala jo pankaleti dat. nuxeplata tectelit kaceit bapala jo xep at panleti dat leti o nip kaceit bapala leti.",
+				"ja": "親が好きな役でカードを表向きに出す。子はそれより強く同じ役でカードを出すか、札を出さない選択をする。"
+			},
+			{
+				"x-pmcp": "jo atakecit leti, jo aucleti nole xenkanit kaleti denepoc pi cene kaceit 3leti o xep mena. tectelit kaceit panleti dat leti o nip kaceit bapala leti pi dije e lucuc.",
+				"ja": "なお、3枚以上のセットはこの縛りを無視していつでも出すことができる。\n役を一つ出すか札を出さない選択をしたら、手番は隣に移る。"
+			},
+			{
+				"x-pmcp": "mak-mak it ka. jo kaceit jo lape leti lata leti etleti lata nip kaceit leti nole cileti lata e xeplata pi kaceit dutucunleti dat.",
+				"ja": "何度か繰り返し、最後に出した人以外が出さなかった場合は最後に出した人が親となり、新しく役を出す。"
+			},
+			{
+				"x-pmcp": "mak-mak it ka pi lata leti kopzo molip jo pac jo aucleti lata pi ci e molka.",
+				"ja": "これを繰り返し、一番最初に手札を全てを出し切った人が勝利となる。"
+			},
+			{
+				"x-pmcp": "値木 makup",
+				"ja": "値木（値木：マㇰホㇷ゚）"
+			},
+			{
+				"x-pmcp": "atakecit kin leti julo e kaleti belpic leti nocti. nip deliju xelit dat at zelena pi ka e pupcuk jo pac lijuit kije leti lata.",
+				"ja": "数字の足し算を特徴としたゲーム。役や強さを気にする必要がなく、初心者向けのルールといえる。"
+			},
+			{
+				"x-pmcp": "pac it leti cul",
+				"ja": "準備"
+			},
+			{
+				"x-pmcp": "aucleti lata letit 6leti kopzo pi kinunzait 2leti bapala pi tectelit xeplata. jo kaleti belpic kinunzait leti bapala leti alailen e \"lime\"",
+				"ja": "各プレーヤーに6枚ずつ配り、山札から2枚を公開札として配置する。その後、親を決定する。\nこのゲームでは最初に置かれた公開札をそれぞれ道と呼ぶ。"
+			},
+			{
+				"x-pmcp": "lata kaceit bapala (cet) jo lime. jo kaleti nole, kaceit leti bapala leti tek deliju e panleti jo belpic leti polto mol bapala leti kin.",
+				"ja": "プレーヤーは場の道に対し、合計値が接続する場の札の数と同じになるように出す。"
+			},
+			{
+				"x-pmcp": "keco, 筆(6leti) mol pi cene kaceit 筆(6leti) o cene kaceit 兵(1) at 弓(2) at 車(3) o cene kaceit 無(0) at 車(3) at車(3) o et.",
+				"ja": "例えば、【筆】(6)が出ていれば、【筆】(6)を出すか、例えば、【兵】(1)と【弓】(2)と【車】(3)や、【無】(0)と【車】(3)と【車】(3)のような札を出すことができる。"
+			},
+			{
+				"x-pmcp": "jo atakecit leti, cene panit makleti lime. keco, 兵(1leti) leti lime at 兵(1leti) leti lime mol pi cene kaceit 弓(2) leti kopzo.",
+				"ja": "また、二つの道を統合することもできる。例えば、【兵】(1)の道と、【兵】(1)の道があれば、【弓】(2)を出すことができる。"
+			},
+			{
+				"x-pmcp": "nip cene amolit o celene nip amolit pi deliju iceit jo lukxe pi delu atakecit lime.",
+				"ja": "札が出せない、もしくは出したくない場合は、山札から引いて道を増やす。"
+			},
+			{
+				"x-pmcp": "mak-mak it ka pi amolit aucleti bapala leti lata molkait.",
+				"ja": "以上を繰り返し、全て札を出し切ったプレーヤーが勝利する。"
+			},
+			{
+				"x-pmcp": "kaceit 皇 o 王 o 船 pi ka cet nip-nole e aucleti lime molip pi lauzait dutucunleti makleti lime.",
+				"ja": "【皇】、【王】、【船】は出した瞬間にすべての道を消し去り、新たな二本の道を作る効果がある。"
+			},
+			{
+				"x-pmcp": "pi, jo ka cet e pacleti lime leti nole lata cene aucleti bapala. kaleti bapala deliju e 1leti.",
+				"ja": "ただし、これらが道の一番最初の札となった場合は、どんな札でも自由に一枚だけ出すことができる。"
+			},
+			{
+				"x-pmcp": "開樽 nanto",
+				"ja": "開樽（【開樽】：ナㇺトウ）"
+			},
+			{
+				"x-pmcp": "pac it leti cul",
+				"ja": "準備"
+			},
+			{
+				"x-pmcp": "aucleti lata letit makleti kopzo at nuwaxecleti kin leti xedixel.",
+				"ja": "各プレーヤーに2枚の手札、任意の量の点棒を配る。"
+			},
+			{
+				"x-pmcp": "bapala leti zelena at dat",
+				"ja": "札の強さと役"
+			},
+			{
+				"x-pmcp": "zelena\n- panleti jo papelleti.",
+				"ja": "札の強さ…通常通り。"
+			},
+			{
+				"x-pmcp": "- jo bapala leti dat zelena mol. jo launza, lape leti dat e cunet jo launza leti dat.",
+				"ja": "札の役には種類ごとに強さがある。強い順に以下の通りである。"
+			},
+			{
+				"x-pmcp": "筆兵無傾 kua at elme/ku-a-kauk-mun-aum 兵弓将筆巫",
+				"ja": "筆兵無傾（【兵弓将筆巫】）"
+			},
+			{
+				"ja": "9\t大富豪のようなゲーム。"
+			}
+		],
 		"17": "TODO",
 		"18": "TODO",
 		"19": "TODO",
