@@ -1671,7 +1671,10 @@
 			},
 			{
 				"x-pmcp": "pac it leti cul",
-				"ja": "準備 \"x-flag-incorrect-style\":\"東島通商語のが太字になっていない\""
+				"ja": "準備",
+				"x-flag-incorrect-style": {
+					"detail": "東島通商語のが太字になっていない"
+				}
 			},
 			{
 				"x-pmcp": "aucleti lata letit panleti kin leti kopzo pi tectelit xeplata.",
@@ -1805,8 +1808,314 @@
 				"ja": "9\t大富豪のようなゲーム。"
 			}
 		],
-		"17": "TODO",
-		"18": "TODO",
+		"17": [
+			{
+				"x-pmcp": "皇王 tan at caupla 皇王",
+				"ja": "皇王（皇王）"
+			},
+			{
+				"x-pmcp": "地心 mo/hu-ep hi-a 筆巫将",
+				"ja": "地心（筆巫将）"
+			},
+			{
+				"x-pmcp": "馬弓兵 bepice elme/maun-gu-a-kauk 兵弓馬\n行々 tude-tude/mo-uk-mo-uk 船車馬",
+				"ja": "行行（馬弓兵）\n馬弓兵 （兵弓馬）",
+				"x-flag-incorrect": {
+					"detail": "和文は順序が逆だし構成する駒も違う"
+				}
+			},
+			{
+				"x-pmcp": "闇戦之集 kapa-nip-mol/kait-kaik-a-dat 兵兵兵兵兵",
+				"ja": "闇戦之集（兵兵兵兵兵）"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "連番",
+				"x-flag-incorrect": {
+					"detail": "東島通商語抜け"
+				}
+			},
+			{
+				"x-pmcp": "mena",
+				"ja": "セット"
+			},
+			{
+				"x-pmcp": "panleti",
+				"ja": "一枚"
+			},
+			{
+				"x-pmcp": "dat leti zelena e panleti pi xelit dat leti bapala leti kin. ci e panleti pi xelit dat leti kinlujot. ci panleti pi panleti dec leti dat e cunet.\njo kaleti belpic amolit kin pi kinunzait bapala pi xelit zelena. mak-mak it ka.",
+				"ja": "役の強さが同じ場合は枚数を比較し、それも同じ場合は数の大きさを比較し、それも同じ場合は同色役のほうが強い。本ゲームは賭けと札の公開を繰り返し、その後判定をすることによって構成される。"
+			},
+			{
+				"x-pmcp": "kin leti amolleti",
+				"ja": "賭け"
+			},
+			{
+				"x-pmcp": "jo belpic leti poto amolit atakecleti kin.",
+				"ja": "場に参加料を出す。"
+			},
+			{
+				"x-pmcp": "jo laiju tectelit jo launza leti it leti.",
+				"ja": "順に以下の行動を選択する。"
+			},
+			{
+				"x-pmcp": "無行\nnip it auc. jo kaleti nole e numolka pi atakecleti kin molip.",
+				"ja": "無行（無行：ムンモーㇰ）：何もしない。このとき負けとなり、参加料は没収される。"
+			},
+			{
+				"x-pmcp": "加行\namolit xep kin jo lapeleti lata amolit leti kin. jo xeplata tectelit 無行 leti nole launza leti lata e xeplata.",
+				"ja": "加行（加行：アッモーㇰ）：直前の競技者以上の点数を賭ける。\nなお、親が無行を選んだ場合、次のプレーヤーが親となる。"
+			},
+			{
+				"x-pmcp": "bapala leti kinunzaleti",
+				"ja": "札の公開"
+			},
+			{
+				"x-pmcp": "tectelit 加行 pi nip tectelit 無行 leti lata kinunzait kopzo jo panleti nole.",
+				"ja": "加行を選択し、無行を一度も選択していない競技者が同時に札を公開する。"
+			},
+			{
+				"x-pmcp": "elmeleti",
+				"ja": "判定"
+			},
+			{
+				"x-pmcp": "xelit cunetleti dat jo aucleti kopzo pi tectelit molkait leti lata. nip tectelit pi xelit jo kopzo cunetleti dat jo makleti zelena leti pi mak tectelit.",
+				"ja": "最も強い役を参照して勝敗を決める。それで決まらない場合は次に強い役を作り判定する。"
+			},
+			{
+				"x-pmcp": "小猫 nine",
+				"ja": "小猫（【小猫】：ニーネー）"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic lata xelit nipit aucleti kopzo leti cul. xon nocti cet mol pi bapala leti zelena at et e waxec jo papelleti nincetkaik leti belpic.",
+				"ja": "手札をなくすことを競うゲーム。札の強さなど、一般的な紙机戦のゲームとは違う特徴が多い。"
+			},
+			{
+				"x-pmcp": "pac it leti cul",
+				"ja": "準備"
+			},
+			{
+				"x-pmcp": "aucleti lata letit kopzo. kopzo leti kin e jo launza leti kin.",
+				"ja": "プレーヤー全員に以下の枚数の札を配る。"
+			},
+			{
+				"x-pmcp": "jo 2-3-4leti lata ?2leti bapala",
+				"ja": "2~4人：12枚"
+			},
+			{
+				"x-pmcp": "jo pankaleti cul delu tactelit xeplata.",
+				"ja": "適当な方法で親を決める。"
+			},
+			{
+				"x-pmcp": "bapala leti zelena at dat",
+				"ja": "札の強さと役"
+			},
+			{
+				"x-pmcp": "zelena\n- 無 cene pulonit panleti dec leti bapala. 船 lap molkait 皇. nip cene xelit 皇 leti zelena jo 王 leti zelena.",
+				"ja": "札の強さ…無は同色札の代わりとなる。船は唯一皇に勝つ。皇は王と同じ強さとみなされない。"
+			},
+			{
+				"x-pmcp": "dat\n- cene lucit panleti at mena.",
+				"ja": "札の役…一枚・セットを使うことができる。"
+			},
+			{
+				"x-pmcp": "belpic e tude jo kame",
+				"ja": "ゲームの進行"
+			},
+			{
+				"x-pmcp": "xeplata kaceit dat. jo dije nuxeplata tectelit jo cai e atakec o nip.",
+				"ja": "親が役を出す。子は自分の手番に、このラウンドに参加するかしないかを決める。"
+			},
+			{
+				"x-pmcp": "jo atakecleti nole\nxelit ci pi jo kopzo pac kaceit\n- letit panleti dec at xep zelena jo ci leti 1leti bapala\no\n- jo panleti zelena xep kin jo ci leti dat. ",
+				"ja": "参加の場合：自分の手札から、同じ色を含みそれより強い札１枚か、同じ強さでより枚数の多い役を出す。"
+			},
+			{
+				"x-pmcp": "jo nip atakecleti nole\niceit 3leti bapala jo lukxe.",
+				"ja": "不参加の場合：山札から札を3枚引く。"
+			},
+			{
+				"x-pmcp": "tactelit atakecleti pi delu amolit panleti dec leti cunetleti 1leti bapala o panleti cunet leti xep kin leti bapala leti dat.",
+				"ja": "参加を選択して以降は、同じ色を含みそれより強い札１枚か、同じ強さでより枚数の多い役を出すこととなる。",
+				"x-flag-incorrect": {
+					"detail": "tactelit ではなく tectelit"
+				}
+			},
+			{
+				"x-pmcp": "panleti lata lap e atakec pi etleti lata nip e atakec pi ci iceit aucleti bapala jo poto jo cileti nole. ci e launza leti xeplata.",
+				"ja": "一人を除いて全員が不参加となった場合、その一人はその時点で場に出ている全ての札を得て、次の親となる。"
+			},
+			{
+				"x-pmcp": "nipit aucleti kopzo leti lata letit kin. kaleti kin e panleti jo ka. ka e jo cileti nole kopzo e xep kin jo auc leti lata leti kopzo leti kin.",
+				"ja": "手札がなくなった人はその時点で手札の枚数が一番多い人の手札の枚数分の点数を得る。"
+			},
+			{
+				"x-pmcp": "jo lukxe leti bapala molip nole xot e lucuc pi letit xep kin jo auc leti lata e molka. jo atakecit leti, ci e xeplata pi letit 1leti kin.",
+				"ja": "山札がなくなった時点で季節が終わり、最大得点者が勝者となる。また、勝者が親の場合はさらに1点を獲得する。"
+			},
+			{
+				"x-pmcp": "xelit kileleti cul leti belpic",
+				"ja": "到達を目指すゲーム"
+			},
+			{
+				"x-pmcp": "jo ka cet leti belpic lata xelit kileleti jo lucucleti poto.",
+				"ja": "これらのゲームでは、ゴールへの到達を目指す。"
+			},
+			{
+				"x-pmcp": "行山 mokzo",
+				"ja": "行山(【行山】:モㇰツォ)"
+			},
+			{
+				"x-pmcp": "2-3-4leti lata it ka. lucit nincetkaik at bepale at zo at xiju at kinpit leti xedixel. bepale cene e cetkaik leti julo o mokzo leti julo. jo ka mi cet bijotit lucit cetkaik leti bepale leti nole.",
+				"ja": "このゲームは 2~4 人で行う。紙机戦とボードと駒、投げ棒、 点棒を用いる。ボードは机戦用のボードや行山用のボードを使う。以下では机戦盤を使う場合を紹介する。"
+			},
+			{
+				"x-pmcp": "belpic leti cela",
+				"ja": "ゲームの構造"
+			}
+		],
+		"17-18": [
+			{
+				"x-pmcp": "jo kaleti belpic cetleti dije mol. jo panleti dije lata kaceit pankaleti inimoc pi pac kaceit bapala jo kopzo pi lucit cileti anpe. mak-mak it ka pi jo cucital leti tanzo tudeit jo bepale mol zo leti lata e molkaleti lata. keco, ka e palbitixumo.",
+				"ja": "このゲームは複数の手番によって成り立っている。手番において、プレーヤーは対応する資源を支払って手札から札を出し、その効果を適用することを繰り返す。手番を繰り返し、 盤に置いた駒を先に中央の皇山まで進めたものを勝者とする。以下のルートは一例である。"
+			}
+		],
+		"18": [
+			{
+				"x-pmcp": "🖼️",
+				"ja": "🖼️"
+			},
+			{
+				"x-pmcp": "dije leti xep pulac",
+				"ja": "手番の概要"
+			},
+			{
+				"x-pmcp": "1. letit kopzo. kaleti kin deliju e panleti jo kopzo leti jukenel leti kin. (jo pac, kopzo leti jukenel leti kin e 3leti.)",
+				"ja": "1. 手札を上限枚数になるまで引く。(初期の上限枚数は 3 枚)"
+			},
+			{
+				"x-pmcp": "2. jo bepale 3leti 2?leti xedixel mol bapala mol pi nipit ci.",
+				"ja": "2. 盤上に 20 点棒が 3 本乗っている札があれば、その札を取り除く。"
+			},
+			{
+				"x-pmcp": "3. lucit coleti bapala leti anpe pi amolit 2?leti xedixel jo delneleti bapala.",
+				"ja": "3. 自分の札の効果を発動する。黒い札の上に 20 点棒を置く。"
+			},
+			{
+				"x-pmcp": "4. cene letit tude 米 pi iceit 銭. pi, nip cene letit tude 銭 pi iceit 米.",
+				"ja": "4. 米から銭に両替する。なお、銭から米へは両替できない。(任意)"
+			},
+			{
+				"x-pmcp": "5. cene letit tude dexamocel pi nipit amolit leti bapala.",
+				"ja": "5. コストを支払って設置されたカードを解体する。(任意)"
+			},
+			{
+				"x-pmcp": "6. cene letit tude dexamocel pi amolit kopzo. cene amolit bapala leti jukenel e 9leti. nip it ka pi cene nip kopzo bapala pi letit 2leti 米. cene mak-mak it ka.",
+				"ja": "6. コストを支払って手札を設置する。(設置上限9）もしくは、 手札を好きな枚数捨て、1枚につき 2 米得る。"
+			},
+			{
+				"x-pmcp": "7. letit tude ?leti 米 o 2leti 銭 pi tudeit jo bepale leti zo.",
+				"ja": "7. 10 米もしくは 2 銭を支払って盤上の駒を移動する。"
+			},
+			{
+				"x-pmcp": "inimoc",
+				"ja": "資源"
+			},
+			{
+				"x-pmcp": "jo mokzo cene letit jo launza leti cul. jo inimoc 米 at 銭 mol pi letit tude 米 pi iceit 銭. ",
+				"ja": "行山では後述の方法で資源を得ることができる。 資源には米と銭の 2 種類があり、米は銭に交換できる。 "
+			},
+			{
+				"x-pmcp": "米\nletit tude 1leti xedixel pi cene iceit ka.",
+				"ja": "米:1点棒を用いる。"
+			},
+			{
+				"x-pmcp": "銭\nletit tude 5leti xedixel pi cene iceit ka.",
+				"ja": "銭:5点棒を用いる。"
+			},
+			{
+				"x-pmcp": "1leti 銭 leti kak at 5leti 米 leti kak e panleti.",
+				"ja": "1 銭と 5 米の価値は等しい。"
+			},
+			{
+				"x-pmcp": "zo e tude jo kame",
+				"ja": "駒の進め方"
+			},
+			{
+				"x-pmcp": "letit tude ?leti 米 o 2leti 銭 pi cene tudeit zo jo 1leti nutok. zo pac e tude jo tanke pi atakecit 1leti jo zo leti tudeleti nutok leti kin.",
+				"ja": "駒は 10 米もしくは 2 銭を支払うことによって 1 マス進めることができる。駒が皇処にある時は駒の移動マス数が 1 マス増える。"
+			},
+			{
+				"x-pmcp": "amolit bapala leti",
+				"ja": "札の設置"
+			},
+			{
+				"x-pmcp": "cene amolit bapala jo bepale leti nucucital pi lucit cileti anpe. jo amolit leti cai leti launza leti cai ka pac letit anpe. (cene lap amolit jo 9leti o nuxep leti bapala) letit tude bapala letit leti dexamocel pi cila cene amolit kaleti bapala. delneleti bapala leti dexamocel e 米 pi ludecleti bapala leti dexamocel e 銭. letit tude amolit leti leti dexamocel pi cene nipit bapala.",
+				"ja": "札は盤の端に設置することができる。設置した次のターンから効果を発揮する。(札の設置上限:9 枚) 札を設置するには、その札に相応なコストを支払わなければならない。黒札には米、赤札には銭でコストを支払う。札は設置に必要なコストと同じコストを支払うことで解体できる。"
+			},
+			{
+				"x-pmcp": "letit tude leti dexamocel e panleti jo bapala leti kin. (船 leti kin e 0leti pi 王 at 皇 leti kin e ?leti.) amolit leti delneleti bapala deliju molip jo 3leti cai leti launza. (jo kaceit cai leti kin amolit 2?leti xedixel jo 1leti cai.) nip nipit ludecleti bapala pi cene lucit cileti anpe. (co untik cene nipit delneleti bapala.)",
+				"ja": "支払うコストの量は紙机戦の札に割り振られた番号に等しい。 (船は 0、王と皇は 10 とする)\n設置された黒札は 3 ターン後に解体される。(明示のために、1 ターンごとにに 20 点棒を 1 つ置く) \n赤札は自ら解体するまで永続的に効果を発揮する。(黒札を自ら解体することもできる)",
+				"x-flag-incorrect": {
+					"detail": "「ごとにに」→「ごとに」"
+				}
+			},
+			{
+				"x-pmcp": "bapala leti anpe",
+				"ja": "札の効果"
+			},
+			{
+				"x-pmcp": "船\tjo lucit ka leti nole, nip-nole nipit ka pi letit 2leti 銭.",
+				"ja": "【船】:盤に置かずそのまま捨て、2 銭を得る。"
+			},
+			{
+				"x-pmcp": "無\tjo 1leti cai letit 1leti 米.",
+				"ja": "【無】:自分の手番毎に 1 米を得る。"
+			},
+			{
+				"x-pmcp": "兵\tatakecit 1leti jo kopzo leti kin leti jukenel.",
+				"ja": "【兵】:手札の上限枚数を 1 枚増やす。"
+			},
+			{
+				"x-pmcp": "弓\tatakecit 1leti jo zo e tudeleti nutok leti kin.",
+				"ja": "【弓】:駒の移動マス数を 1 マス増やす。 "
+			},
+			{
+				"x-pmcp": "車\tnuwatakecit 1leti jo amolit bapala leti kin pi nuwatakecit 1leti jo tudeit zo jo 米 leti dexamocel.",
+				"ja": "【車】:札の設置コストと米での移動コストを 1 減らす。 "
+			},
+			{
+				"x-pmcp": "虎\tjo 1leti cai letit kije 1leti inimoc jo 1leti lata.",
+				"ja": "【虎】:自分の手番毎に、相手一人の資源を一つ奪う。 "
+			},
+			{
+				"x-pmcp": "馬\tatakecit 1leti jo zo e tudeleti nutok leti kin.",
+				"ja": "【馬】:駒の移動マス数を 2 マス増やす。 "
+			},
+			{
+				"x-pmcp": "筆\tjo 1leti cai doktit xiju pi cileti kin e 3leti o nuxep pi 虎 at 将 leti anpe pi kaleti anpe e lucuc jo launza leti untik leti dije. xiju leti kin e 4leti o xep pi letit 2leti 銭.",
+				"ja": "【筆】:自分の手番毎に裁をして 3 以下なら次の自分の手番まで自分への【虎】と【将】の効果を無効にし、4 以上なら 2 銭を得る。 "
+			},
+			{
+				"x-pmcp": "巫\tjo 1leti cai doktit xiju pi cileti kin e 3leti o nuxep pi kait tudeit leti dexamocel pi xiju leti kin e 4 o xep pi tudeit zo jo 1leti nutok. (cene lucit 弓 at 馬 at 車 leti anpe jo panleti nole.) jo lucit 巫 at 車 leti anpe leti nole, jo etecleti lucit 巫 leti anpe. jo kait netauk leti nole lata atakecit 5?片.",
+				"ja": "【巫】:自分の手番毎に裁をして 3 以下なら移動コストを半分にし、4 以上なら駒を 1 つ進める。(【弓】、【馬】、【車】の効果と重複あり)【車】と重複する場合、巫の処理を先に行う。端数は切り上げする。"
+			},
+			{
+				"x-pmcp": "将\tjo 1leti cai doktit xiju pi cileti kin e 3leti o nuxep pi amolit 2?leti kin leti xedixel jo pankaleti bapala pi xiju leti kin e 4 o xep pi nipit jo bepale leti bapala. (cene xenkanit bapala leti dec.) ",
+				"ja": "【将】:自分の手番毎に裁をして 3 以下なら好きな札に 20 点棒を置き、4 以上なら盤にある札を破壊する。(札の色は問わない) "
+			},
+			{
+				"x-pmcp": "王\tjo 1leti cai letit 2leti 銭.",
+				"ja": "【王】:自分の手番毎に 2 銭を得る。"
+			}
+		],
+		"18-19": [
+			{
+				"x-pmcp": "皇\tjo 1leti cai tudeit zo jo panleti nutok. (cene lucit 弓 at 馬 leti anpe jo panleti nole.)",
+				"ja": "【皇】:自分の手番毎に駒を 1 つ進める。(【弓】、【馬】の効果と重複あり)"
+			}
+		],
 		"19": "TODO",
 		"20": "TODO"
 	}
