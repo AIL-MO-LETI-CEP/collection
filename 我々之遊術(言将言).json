@@ -2116,7 +2116,224 @@
 				"ja": "【皇】:自分の手番毎に駒を 1 つ進める。(【弓】、【馬】の効果と重複あり)"
 			}
 		],
-		"19": "TODO",
-		"20": "TODO"
+		"19": [
+			{
+				"x-pmcp": "六裁 netxiju",
+				"ja": "六裁(【六裁】:ネッシュ) "
+			},
+			{
+				"x-pmcp": "lucit docnetoc leti cubelpic. laneme penulleti lukup-lukup letit kaleti alailen pi lukupit launza.",
+				"ja": "酒を賭けて行われていた賭博の一種。ラネーメ古論¹⁰にその名が見られ、以下のような記述がされている。"
+			},
+			{
+				"x-pmcp-linzklar": "或{lt}水道{之}将{名e}輪口{t}酒{pi}遊{tjo}銭。{jo}此{之}時別{lt}人{為}六裁而{為}牛行即口為二十二{lt}甘清酒。輪奮{t}此而無認{t}此而思人之手術。輪言{t}「牛行{e}無常{lt}。{jo}何故為此。汝無{e}再来！」時{e}下{pi}言{e}広行{it}而輪{lt}友{e}無。遊{itjo}銭之時須思{t}人噫。",
+				"ja": "あるナモ(行政区分)の将軍で、ユトという名の者(宝石細工師?)が、酒を飲み賭博をしていた。この時、他の人とユトが六裁という遊びをしていて、牛行が起こり、二十二の甘清酒を飲んだ。ユトはこれに対して怒り、これを認めず、その人がイカサマをしたと考えた。ユトが言うには、「牛行はめったに起こらない。なぜこれをすることができたのか。二度と私のもとに来るな」と。のちに噂が広まり、ユトには友達がいなくなった。賭博をするときには人のことを考えなければならないのだなぁ。"
+			},
+			{
+				"x-pmcp": "jo kaleti kantel cene it ticot-ticot jo ka.",
+				"ja": "こういった記述から、以下のことが推測される。"
+			},
+			{
+				"x-pmcp": "- letit xep late leti lata it ka.",
+				"ja": "- ある程度の資本力のある人がこれを遊んでいたこと"
+			},
+			{
+				"x-pmcp": "- cunetleti it leti mol pi kaleti alailen e \"牛行\".",
+				"ja": "- 「牛行」という強い行動があること"
+			},
+			{
+				"x-pmcp": "jo \"六裁\" leti alailen, koluxan.katu.lokatan(1995) ticot-ticot lucit 6leti xiju leti julo pi muwi.tacak(1981) ticot-ticot lucit cexexiju.\njo atakecit leti, mi cet cene xelit kaleti cukulal leti bepale pi lata cet e ticot-ticot 六裁 leti bepale.",
+				"ja": "また、六裁という名からは 6 本の投げ棒(コールーシャム・ガートゥ・ローハタム 1995¹¹)や 6 面体のサイコロ(ムイ・タザク 1981)を用いたのではないかという学説がある。また、以下のような六裁のものだと考えられているゲームボードらしきものが出土している。"
+			},
+			{
+				"x-pmcp": "🖼️",
+				"ja": "🖼️"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "コールーシャム・ガートゥ・ローハタムやムイ・タザクは以下のようにルールを推測している。",
+				"x-flag-incorrect": {
+					"detail": "本来ここには「koluxan.katu.lokatan at muwi.tacak e ticot-ticot launza leti cepkulante.」が書かれるべきだったが、抜けている"
+				}
+			},
+			{
+				"x-pmcp": "- jo launza-tecnok leti tipec leti zai amolit zo pi pac it belpic.",
+				"ja": "・右下の斜線部に駒を置いてゲームを始める。"
+			},
+			{
+				"x-pmcp": "- xiju o cexexiju leti kin e zo e tude leti nutok leti kin.",
+				"ja": "・投げ棒やサイコロで出た数字分、駒を進める。"
+			},
+			{
+				"x-pmcp": "- jo zo mol nutok zai mol pi kunlanit zai leti kin leti docnetoc.",
+				"ja": "・止まったマスに線が書かれていれば、その本数に対応した杯数の酒を飲む。 "
+			},
+			{
+				"x-pmcp": "- jo zo mol nutok etleti lata leti zo mol pi cileti zo e tude jo pac it leti nutok.",
+				"ja": "・止まったマスに他のプレーヤーの駒があれば、その相手の駒はスタート地点に戻る。 "
+			},
+			{
+				"x-pmcp": "- kile jo lucucleti poto leti lata tectelit iceit kame.",
+				"ja": "・最初にゴールしたプレーヤーから順に褒賞を選ぶ。"
+			},
+			{
+				"x-pmcp": "jo atakecit leti, lata ticotit \"牛行\" e etleti lata nip e co mak e tude pi aucleti zai mol nutok pi kile jo kile leti julo. lokatan lukipit \"牛行之名故此片静行而如牛\". muwi lukupit \"牛此直之歪言\".zo e tude jo kame palbitixumo? kame kin leti zo mol? jexet nip e cetleti pi nip cene e ticot kije. ",
+				"ja": "なお、「牛行」とは他のプレーヤーに一度もスタートに戻されず、全ての線が書かれたマスに止まったうえでゴールすることだと考えられている。ローハタムは「牛のようにゆっくり進んでいるから牛行という」という説を、ムイは「牛という単語は真っ直ぐという単語の訛り¹²である」という説を挙げている。どのようなルートを駒が進んだか、駒はいくつあったかなどについては余り証拠がなく分かっていない。",
+				"x-flag-incorrect-style": {
+					"detail": "zo e tude の前にスペースが入っていない"
+				}
+			},
+			{
+				"x-pmcp": "連船之遊 tude-pijume",
+				"ja": "連船之遊(【連船之遊】:ネカナモカヌツ) "
+			},
+			{
+				"x-pmcp": "makleti o dukaleti o jupleti lata it kaleti belpic. jo bepale lata tudeit 3leti mobit pijume leti zo pi penxeit inimoc.",
+				"ja": "このゲームは、2~4 人で行う。ボードと3つの船を模した駒を用いる。プレーヤーは船駒を動かし、資源を運ぶ。"
+			},
+			{
+				"x-pmcp": "bepale",
+				"ja": "ボード"
+			},
+			{
+				"x-pmcp": "jo bepale pac leti poto at lucucleti poto at ?9leti poto mol. jo pac leti poto at lucucleti poto leti cecijo mol ?9leti poto.\nlata letit kaceit jo aucleti pijume mol inimoc leti kin leti bepale pi cileti jukenel e ?5leti. lata letit kaceit jo pac leti poto at jo jo lucucleti poto leti inimoc leti kin leti bepale. kaleti jukenel molip.",
+				"ja": "ボードにはスタート地点(【始】)とゴール地点(【終】)、それを結ぶ 19 個の中間地点がある。また、それぞれの船に積載されている資源量を表す上限が 15 の点数トラック¹³と、スタート地点とゴール地点の資源量を表す上限のない点数トラックがある。"
+			},
+			{
+				"x-pmcp": "片 zo",
+				"ja": "駒"
+			},
+			{
+				"x-pmcp": "片 zo",
+				"x-flag-incorrect": {
+					"detail": "重複"
+				}
+			},
+			{
+				"x-pmcp": "aucleti lata letit 3leti pijume. pijume e kile jo pac leti poto pi celene tude jo lucucleti poto. pijume letit dec pi kaleti dec e panleti jo lata leti dec. aucleti lata letit jo kin leti bepale e tudeleti 5leti zo. pi kaleti dec e panleti jo lata leti dec. jo pac it belpic leti nole amolit pijume jo pac leti poto pi amolit 1leti zo jo pac leti poto leti kin leti bepale leti 20leti poto pi panleti pijume leti inimoc leti kin leti bepale leti 5leti poto pi amolit etleti zo cet jo kin leti bepale leti 0leti poto.",
+				"ja": "各プレーヤーはスタート地点からゴール地点にかけて移動する船駒 3 つ(それぞれのプレーヤーの駒は色によって区別され、プレーヤーの駒3つは記号などによって区別される)、点数トラックを移動するプレーヤー色と同じ色の駒を 5 つ持つ。ゲーム開始時には船駒をスタート地点、スタート地点の点数トラックの 20 の位置に駒を 1 つ、船駒 1 つの資源トラックの 5 の位置に駒を1 つ、点数トラックの 0 の位置にそれ以外の駒を配置する。"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "10\tラネーメ文化圏に古くから伝わってきた説話や伝承などの文の集まりのことで、 寓話やおとぎ話といった民話から戦記のような歴史 記述までさまざまなものが存在する。"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "11\tピリフィアー暦。"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "12\tパイグ語:io2 [iou12](ヨウ⤴)「牛」、io1[iou55](ヨウ→)「真っ直ぐな」\n  アイル語:juo [juo](ユオ)「牛」、jooi [joːi](ヨーイ)「直立させる」"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "13\t原文は「数の板」を意味する表現が用いられているが、独立したボードではないことが多いため、ここではこのように翻訳した。"
+			}
+		],
+		"20": [
+			{
+				"x-pmcp": "🖼️",
+				"ja": "🖼️"
+			},
+			{
+				"x-pmcp": "belpic leti cela",
+				"ja": "ゲームの構造"
+			},
+			{
+				"x-pmcp": "jo kaleti belpic cetleti dije mol. jo dije lata doktit xije pi it pankaleti cul. mak-mak it ka pi jo lucucleti poto jo pac penxeit 2?leti inimoc leti lata jo auc e molka.",
+				"ja": "このゲームは複数の手番によって成り立っている。手番において、プレーヤーは投げ棒を投げ、アクションを行う。これを繰り返し、先にゴール地点に 20 資源を運んだプレーヤーの勝利となる。"
+			},
+			{
+				"x-pmcp": "dije leti pulac",
+				"ja": "手番の概要"
+			},
+			{
+				"x-pmcp": "jo dije lata doktit xiju pi xelit cileti kin pi it launza leti panleti. jo atakecit leti, \"amolit inimoc jo panleti poto\" e \"atakecit cileti inimoc leti kin jo pankaleti bepale leti julo\". \"nipit panleti leti poto leti inimoc\" e \"nuwatakecit cileti inimoc leti kin jo pankaleti bepale leti julo\".",
+				"ja": "手番において、プレーヤーは投げ棒を投げ、その数を確認した上で、以下のどれか１つを行う。なお、「ある場所に資源を載せる」「ある場所の資源を捨てる」というのはそれぞれ対応する点数トラックにその数を加える、または減らすという意味である。"
+			},
+			{
+				"x-pmcp": "- tudeleti\tnipit xiju leti kin leti inimoc pi tudeit pijume leti zo jo xiju leti kin leti nutok.",
+				"ja": "- 移動:投げ棒の数資源を捨てて船駒一つを投げ棒のマス数分移動する。"
+			},
+			{
+				"x-pmcp": "- lauzait pijume leti cul\tnipit jo pac leti poto leti 5leti inimoc pi jo pac leti poto leti inimoc molip pijume amolit 5leti inimoc.",
+				"ja": "- 造船: スタート地点の 5 資源を捨てスタート地点にある 0 資源の船に 5 資源を載せる"
+			},
+			{
+				"x-pmcp": "- xactije\tamolit leti xiju leti kin leti inimoc jo panleti pijume.",
+				"ja": "- 補給:[投げ棒の数]の資源をいずれかの船に載せる"
+			},
+			{
+				"x-pmcp": "- xactije\tamolit xiju leti kin leti inimoc jo panleti pijume.",
+				"x-flag-incorrect": {
+					"detail": "leti が一個ないだけの重複"
+				}
+			},
+			{
+				"x-pmcp": "- tuwalenija\ttectelit 1leti coleti pijume pi tectelit etleti jo nuwaxecleti nutok mol 1leti pijume. letit kije nuwatakecit 1leti jo xiju leti kin leti inimoc jo cileti pijume. (amolit kaleti inimoc jo coleti pijume)",
+				"ja": "- 略奪:同じマスの船から[投げ棒の数-1]資源を獲得(その船に載せる)"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "- 召集:船をスタートに戻し、スタート地点にそれに載っている資源を載せる。",
+				"x-flag-incorrect": {
+					"detail": "本来「- dokit pijume leti cul\ttudeit coleti 1leti pijume jo pac leti poto pi amolit cileti pijume letit leti inimoc jo pac leti poto.」が入るべきだが、抜けている"
+				}
+			},
+			{
+				"x-pmcp": "- jo tude jo lucucleti poto leti nole",
+				"ja": "- ゴール地点に到達した際"
+			},
+			{
+				"x-pmcp": "jo pijume tude jo lucucleti poto leti nole deliju nip-nole atakecit ci letit leti aucleti inimoc jo lucucleti poto. cileti pijume mol jo lucucleti poto. e ci dokit pijume pi tudeit ci jo pac leti poto.",
+				"ja": "ゴール地点に到達した船がある場合、その船に載っている全ての資源を直ちにゴール資源に追加する。その船はゴール地点にとどまる。その船は荷下ろしアクションを使うまでスタート地点に戻らない。"
+			},
+			{
+				"x-pmcp": "- nip letit inimoc leti pijume",
+				"ja": "- 資源0の船"
+			},
+			{
+				"x-pmcp": "pijume leti inimoc e tude jo 0leti pi kaleti pijume nip-nole e tude jo pac leti poto. ",
+				"ja": "資源が 0 になった船は直ちにスタート地点に戻る。"
+			},
+			{
+				"x-pmcp": "- nip it dije",
+				"ja": "- パス"
+			},
+			{
+				"x-pmcp": "xiju e 0leti pi lata deliju nip it dije. inimoc molip jo pac it leti poto pi lata deliju nip it dije.",
+				"ja": "投げ棒で０が出た場合、あるいはスタート地点に資源がない場合、手番はパスとなる。"
+			},
+			{
+				"x-pmcp": "mak-mak it ka. panleti lata tudeit 2?leti inimoc jo lucucleti poto pi belpic e lucuc jo cileti cai. jo kaleti nole, jo lucucleti poto tudeit xep kin leti inimoc jo auc leti lata e molka.",
+				"ja": "以上の手番を繰り返し、20 資源をゴール地点に移動させたプレーヤーがいるとき、ゲームはそのラウンドで終了する。この時、最も多くの資源をゴール地点に運んだプレーヤーの勝利となる。"
+			},
+			{
+				"x-pmcp": "我々之遊術 (言将言)",
+				"ja": "我々の遊戯（日本語）"
+			},
+			{
+				"x-pmcp": "jo lewa 五星五日",
+				"ja": "令和 5 年 5 月 発行",
+				"x-flag-incorrect": {
+					"detail": "【五日】ではなく【五月】とすべきだった"
+				}
+			},
+			{
+				"x-pmcp": "ail mo leti cep kanteit ka pi",
+				"ja": "アイル共和国文化省 著"
+			},
+			{
+				"x-pmcp": "nippon cetkaik leti lata cet waxecit ka jo nippon lukup",
+				"ja": "日本机戦連盟 訳"
+			},
+			{
+				"x-pmcp": "papcil mol pi\nnippon lata delu xelit tecnok pi\nail lata lukupit jo mo leti cep"
+			},
+			{
+				"x-pmcp": "",
+				"ja": "twitter: @cet2kaik\nE-mail: cet2kaik@gmail.com\n印刷：ちょ古っ都製本工房"
+			}
+		]
 	}
 }
