@@ -2340,3 +2340,6 @@ const mi_cet_leti_belpic: Doc = {
 
 console.log(mi_cet_leti_belpic);
 
+function render_page(doc: Doc) {
+    return `<h1>${doc.title.ja} / ${doc.title["x-faikleone"]}</h1>`
+}

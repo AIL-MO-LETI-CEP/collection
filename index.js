@@ -2339,3 +2339,6 @@ const mi_cet_leti_belpic = {
     }
 };
 console.log(mi_cet_leti_belpic);
+function render_page(doc) {
+    return `<h1>${doc.title.ja} / ${doc.title["x-faikleone"]}</h1>`;
+}
