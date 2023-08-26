@@ -1,0 +1,19 @@
+{
+  "name": "collection",
+  "version": "1.0.0",
+  "description": "発行した文書とかにひたすらメタデータを書いていったりする虚無作業をするためのリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AIL-MO-LETI-CEP/collection.git"
+  },
+  "author": "hsjoihs / jekto.vatimeliju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AIL-MO-LETI-CEP/collection/issues"
+  },
+  "homepage": "https://github.com/AIL-MO-LETI-CEP/collection#readme"
+}
