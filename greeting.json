@@ -1,0 +1,21 @@
+{
+    "title": {
+        "ja": "あいさつ",
+        "x-faikleone": "cala"
+    },
+    "source": {
+        "link": "https://twitter.com/S_Y15/status/861960974512738304",
+        "permanentLink": "https://twitter.com/S_Y15/status/861960974512738304",
+        "date": "2017-05-10T09:08:00.000Z"
+    },
+    "paged": false,
+    "content": [
+        {
+            "x-pmcp": "cala! mi e tap. mi lukupit jo lipalain lukup.",
+            "x-lineparine": "salarua! mi es tarf. cene mi lkurf lineparine.",
+            "x-translation-sidenote": {
+                "detail": "リパライン語にある cene が東島通商語で落ちている。cene を残すなら mi cene lukupit jo lipalain lukup. となるべき。"
+            }
+        }
+    ]
+}

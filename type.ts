@@ -1,18 +1,28 @@
 type Doc = {
-    title: { "ja"?: string, "x-faikleone"?: string },
-    source: {
-        link: string,
-        permanentLink?: string,
-        date: string,
-        draft?: string,
-    },
+    title: Title,
+    source: Source,
     paged: true,
     contentByPage: { [key: string]: Page }
+} | {
+    title: Title,
+    source: Source,
+    paged: false,
+    content: ReadonlyArray<Content>
 };
 
-type Page = ReadonlyArray<{
+type Title = { "ja"?: string, "x-faikleone"?: string };
+
+type Source = {
+    link: string,
+    permanentLink?: string,
+    date: string,
+    draft?: string,
+};
+
+type Content = {
     "x-pmcp"?: string,
     "x-pmcp-linzklar"?: string,
+    "x-lineparine"?: string,
     "ja"?: string,
     "x-flag-incorrect"?: {
         "detail": string
@@ -23,4 +33,6 @@ type Page = ReadonlyArray<{
     "x-flag-incorrect-style"?: {
         "detail": string
     }
-}>;
+};
+
+type Page = ReadonlyArray<Content>;
