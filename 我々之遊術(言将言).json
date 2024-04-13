@@ -5,8 +5,8 @@
 	},
 	"source": {
 		"link": "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2023/%E6%88%91%E3%80%85%E3%81%AE%E9%81%8A%E6%88%AF.pdf",
-		"permanentLink": "https://github.com/yasusho/lanerme_traditional_games/blob/cdfd0d02e634d57d207d3f5bf94c321f359aef60/%E3%82%B2%E3%83%A0%E3%83%9E2023/%E6%88%91%E3%80%85%E3%81%AE%E9%81%8A%E6%88%AF.pdf",
-		"date": "2023-05-02T04:46:00.000Z",
+		"permanentLink": "https://github.com/yasusho/lanerme_traditional_games/blob/master/%E3%82%B2%E3%83%A0%E3%83%9E2023%E7%A7%8B/%E6%88%91%E3%80%85%E3%81%AE%E9%81%8A%E6%88%AF_%E7%A7%8B%E6%94%B9%E8%A8%82.odt",
+		"date": "2023-12-04T20:26:05.000Z",
 		"draft": "https://docs.google.com/document/d/1kuVKX8Hb13o2nLRk9wtARFzvvMThSG2NG-9mJravPX0/edit"
 	},
 	"paged": true,
@@ -935,18 +935,12 @@
 				"ja": "- 駒固有の動き(後述)に従う。"
 			},
 			{
-				"x-pmcp": "- 2. letit kije leti awi",
-				"ja": "- 2. 獲得フェーズ(移動先に相手の駒があれば) ",
-				"x-flag-incorrect": {
-					"detail": "一部欠落。欠落部は直後のに貼り付いている"
-				}
+				"x-pmcp": "- 2. letit kije leti awi (etleti lata leti zo mol jo zo e tude leti polto pi delu it ka)",
+				"ja": "- 2. 獲得フェーズ(移動先に相手の駒があれば) "
 			},
 			{
-				"x-pmcp": "letit kije leti awi (etleti lata leti zo mol jo zo e tude leti polto pi delu it ka)jo bepale nipit zo pi kaleti zo e tude jo untik leti kopzo.",
-				"ja": "駒を盤上から除き自分の手駒に加える。",
-				"x-flag-incorrect": {
-					"detail": "直前のやつの訳もここに改行無しで貼り付いている"
-				}
+				"x-pmcp": "jo bepale nipit zo pi kaleti zo e tude jo untik leti kopzo.",
+				"ja": "駒を盤上から除き自分の手駒に加える。"
 			},
 			{
 				"x-pmcp": "tudeleti awi",
@@ -1007,12 +1001,6 @@
 				"ja": "車・獣"
 			},
 			{
-				"x-pmcp": "xije at pice",
-				"x-flag-incorrect": {
-					"detail": "前のと重複"
-				}
-			},
-			{
 				"x-pmcp": "cileti panleti cipoto leti nutok e tanna o nip e bepale leti polto pi nip cene e tude jo cileti panleti cipoto leti nutok pi nip cene letit cileti zo (jo xon cepkulante lata cene letit zo pi nipit xiju o pice). ",
 				"ja": "「一つ向こうのマス」が水・盤外などで動けない場合にはその駒を取ることはできない（車・獣が失われるのと引き換えに駒を取れる変種も存在する）。"
 			},
@@ -1066,11 +1054,8 @@
 				"ja": "点棒（【値軸】：マーㇰラー）"
 			},
 			{
-				"x-pmcp": "ka e nectelleti xedixel pi jo kinpit kin leti nole lucit. pulanleti e 1leti kin pi ludecleti e 5leti kin pi delunleti e 25leti kin..",
-				"ja": "点数の計算に用いる細い棒。白は1点、赤は5点、黒は25点である⁵。",
-				"x-flag-incorrect": {
-					"detail": "ピリオドが多い"
-				}
+				"x-pmcp": "ka e nectelleti xedixel pi jo kinpit kin leti nole lucit. pulanleti e 1leti kin pi ludecleti e 5leti kin pi delunleti e 25leti kin.",
+				"ja": "点数の計算に用いる細い棒。白は1点、赤は5点、黒は25点である⁵。"
 			},
 			{
 				"x-pmcp": "nincetkaik leti lukup",
@@ -1631,11 +1616,8 @@
 				"ja": "全プレーヤーは1点を場に支払う。"
 			},
 			{
-				"x-pmcp": "xeplata tectelit jo cileti elmeleti e atakec o nip. xeplata nip e atakec pi launza leti lata e xeplata. xeplata tectelit paujun leti kin pi jo belpic leti polto amolit cileti kin.",
-				"ja": "親がその勝負に参加するかどうかを決定する。不参加の場合、親は次プレーヤーに移る。\n親は1点から5点の範囲で基準点を設定し、その点数を場に出す。",
-				"x-flag-incorrect": {
-					"detail": "「1点から5点の範囲で」が東島通商語の方から漏れている"
-				}
+				"x-pmcp": "xeplata tectelit jo cileti elmeleti e atakec o nip. xeplata nip e atakec pi launza leti lata e xeplata. xeplata tectelit paujun leti kin pi jo belpic leti polto amolit cileti kin. kaleti kin e jo 1leti jo 5leti.",
+				"ja": "親がその勝負に参加するかどうかを決定する。不参加の場合、親は次プレーヤーに移る。\n親は1点から5点の範囲で基準点を設定し、その点数を場に出す。"
 			},
 			{
 				"x-pmcp": "xelit ka pi nuxeplata tectelit e atakec o nip. atakecleti nuxeplata amolit paujun leti kin. it ka jo 3leti cai.",
@@ -1819,21 +1801,15 @@
 			},
 			{
 				"x-pmcp": "馬弓兵 bepice elme/maun-gu-a-kauk 兵弓馬\n行々 tude-tude/mo-uk-mo-uk 船車馬",
-				"ja": "行行（馬弓兵）\n馬弓兵 （兵弓馬）",
-				"x-flag-incorrect": {
-					"detail": "和文は順序が逆だし構成する駒も違う"
-				}
+				"ja": "馬弓兵 （兵弓馬）\n行行（船車馬）"
 			},
 			{
 				"x-pmcp": "闇戦之集 kapa-nip-mol/kait-kaik-a-dat 兵兵兵兵兵",
 				"ja": "闇戦之集（兵兵兵兵兵）"
 			},
 			{
-				"x-pmcp": "",
-				"ja": "連番",
-				"x-flag-incorrect": {
-					"detail": "東島通商語抜け"
-				}
+				"x-pmcp": "laiju leti kin",
+				"ja": "連番"
 			},
 			{
 				"x-pmcp": "mena",
@@ -2056,10 +2032,7 @@
 			},
 			{
 				"x-pmcp": "letit tude leti dexamocel e panleti jo bapala leti kin. (船 leti kin e 0leti pi 王 at 皇 leti kin e ?leti.) amolit leti delneleti bapala deliju molip jo 3leti cai leti launza. (jo kaceit cai leti kin amolit 2?leti xedixel jo 1leti cai.) nip nipit ludecleti bapala pi cene lucit cileti anpe. (co untik cene nipit delneleti bapala.)",
-				"ja": "支払うコストの量は紙机戦の札に割り振られた番号に等しい。 (船は 0、王と皇は 10 とする)\n設置された黒札は 3 ターン後に解体される。(明示のために、1 ターンごとにに 20 点棒を 1 つ置く) \n赤札は自ら解体するまで永続的に効果を発揮する。(黒札を自ら解体することもできる)",
-				"x-flag-incorrect": {
-					"detail": "「ごとにに」→「ごとに」"
-				}
+				"ja": "支払うコストの量は紙机戦の札に割り振られた番号に等しい。 (船は 0、王と皇は 10 とする)\n設置された黒札は 3 ターン後に解体される。(明示のために、1 ターンごとに 20 点棒を 1 つ置く) \n赤札は自ら解体するまで永続的に効果を発揮する。(黒札を自ら解体することもできる)"
 			},
 			{
 				"x-pmcp": "bapala leti anpe",
@@ -2150,11 +2123,8 @@
 				"ja": "🖼️"
 			},
 			{
-				"x-pmcp": "",
-				"ja": "コールーシャム・ガートゥ・ローハタムやムイ・タザクは以下のようにルールを推測している。",
-				"x-flag-incorrect": {
-					"detail": "本来ここには「koluxan.katu.lokatan at muwi.tacak e ticot-ticot launza leti cepkulante.」が書かれるべきだったが、抜けている"
-				}
+				"x-pmcp": "koluxan.katu.lokatan at muwi.tacak e ticot-ticot launza leti cepkulante.",
+				"ja": "コールーシャム・ガートゥ・ローハタムやムイ・タザクは以下のようにルールを推測している。"
 			},
 			{
 				"x-pmcp": "- jo launza-tecnok leti tipec leti zai amolit zo pi pac it belpic.",
@@ -2202,12 +2172,6 @@
 			{
 				"x-pmcp": "片 zo",
 				"ja": "駒"
-			},
-			{
-				"x-pmcp": "片 zo",
-				"x-flag-incorrect": {
-					"detail": "重複"
-				}
 			},
 			{
 				"x-pmcp": "aucleti lata letit 3leti pijume. pijume e kile jo pac leti poto pi celene tude jo lucucleti poto. pijume letit dec pi kaleti dec e panleti jo lata leti dec. aucleti lata letit jo kin leti bepale e tudeleti 5leti zo. pi kaleti dec e panleti jo lata leti dec. jo pac it belpic leti nole amolit pijume jo pac leti poto pi amolit 1leti zo jo pac leti poto leti kin leti bepale leti 20leti poto pi panleti pijume leti inimoc leti kin leti bepale leti 5leti poto pi amolit etleti zo cet jo kin leti bepale leti 0leti poto.",
@@ -2264,20 +2228,14 @@
 				"ja": "- 補給:[投げ棒の数]の資源をいずれかの船に載せる"
 			},
 			{
-				"x-pmcp": "- xactije\tamolit xiju leti kin leti inimoc jo panleti pijume.",
-				"x-flag-incorrect": {
-					"detail": "leti が一個ないだけの重複"
-				}
-			},
-			{
 				"x-pmcp": "- tuwalenija\ttectelit 1leti coleti pijume pi tectelit etleti jo nuwaxecleti nutok mol 1leti pijume. letit kije nuwatakecit 1leti jo xiju leti kin leti inimoc jo cileti pijume. (amolit kaleti inimoc jo coleti pijume)",
 				"ja": "- 略奪:同じマスの船から[投げ棒の数-1]資源を獲得(その船に載せる)"
 			},
 			{
-				"x-pmcp": "",
+				"x-pmcp": "- dokit pijume leti\tcul tudeit coleti 1leti pijume jo pac leti poto pi amolit cileti pijume letit leti inimoc jo pac leti poto.",
 				"ja": "- 召集:船をスタートに戻し、スタート地点にそれに載っている資源を載せる。",
-				"x-flag-incorrect": {
-					"detail": "本来「- dokit pijume leti cul\ttudeit coleti 1leti pijume jo pac leti poto pi amolit cileti pijume letit leti inimoc jo pac leti poto.」が入るべきだが、抜けている"
+				"x-flag-incorrect-style": {
+					"detail": "本来は「dokit pijume leti cul」までが太字になっているべきだが、cul が太くなっていない"
 				}
 			},
 			{
@@ -2313,11 +2271,15 @@
 				"ja": "我々の遊戯（日本語）"
 			},
 			{
-				"x-pmcp": "jo lewa 五星五日",
-				"ja": "令和 5 年 5 月 発行",
+				"x-pmcp": "jo lewa 五星九月 一位圧",
+				"ja": "令和 5 年 9 月 初版", 
 				"x-flag-incorrect": {
-					"detail": "【五日】ではなく【五月】とすべきだった"
+					"detail": "初版を刷ったのは 9 月ではなく 5 月"
 				}
+			},
+			{
+				"x-pmcp": "jo lewa 五星十一月 二位圧",
+				"ja": "令和 5 年 11 月 第２版"
 			},
 			{
 				"x-pmcp": "ail mo leti cep kanteit ka pi",
@@ -2332,7 +2294,7 @@
 			},
 			{
 				"x-pmcp": "",
-				"ja": "twitter: @cet2kaik\nE-mail: cet2kaik@gmail.com\n印刷：ちょ古っ都製本工房"
+				"ja": "X(twitter): @cet2kaik\nE-mail: cet2kaik@gmail.com\n印刷：ちょ古っ都製本工房"
 			}
 		]
 	}
